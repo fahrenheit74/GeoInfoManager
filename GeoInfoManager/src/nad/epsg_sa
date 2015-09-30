@@ -1,0 +1,28 @@
+# SAD69 / UTM zone 18N
+<sa29168> +proj=utm +zone=18 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 19N
+<sa29169> +proj=utm +zone=19 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 20N
+<sa29170> +proj=utm +zone=20 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 21N
+<sa29171> +proj=utm +zone=21 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 22N
+<sa29172> +proj=utm +zone=22 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 17S
+<sa29187> +south +proj=utm +zone=17 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 18S
+<sa29188> +south +proj=utm +zone=18 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 19S
+<sa29189> +south +proj=utm +zone=19 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 20S
+<sa29190> +south +proj=utm +zone=20 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 21S
+<sa29191> +south +proj=utm +zone=21 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 22S
+<sa29192> +south +proj=utm +zone=22 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 23S
+<sa29193> +south +proj=utm +zone=23 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 24S
+<sa29194> +south +proj=utm +zone=24 +ellps=aust_SA +units=m +no_defs  <>
+# SAD69 / UTM zone 25S
+<sa29195> +south +proj=utm +zone=25 +ellps=aust_SA +units=m +no_defs  <>

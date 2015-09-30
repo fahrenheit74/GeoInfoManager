@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:gravity="center_horizontal">
+
+	<com.google.android.maps.MapView
+		android:id="@+id/tape_view" 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" 
+		android:enabled="true"		
+		android:clickable="true" 
+		android:apiKey="05T0VjpGMGz_GRyqp0Ju8UWzv3RfO832BvaqVMA"/>		
+		
+		<Button
+		 	android:id="@+id/tape_pt_btn"
+		 	android:layout_width="90dip"
+		 	android:layout_height="wrap_content"
+		 	android:layout_alignParentBottom="true"
+		 	android:layout_alignParentRight="true"
+		 	android:paddingBottom="10dip"
+		 	android:text="Start Pt"/>
+		<Button
+		 	android:id="@+id/tape_stop_btn"
+		 	android:layout_width="90dip"
+		 	android:layout_height="wrap_content"
+		 	android:layout_above="@id/tape_pt_btn"
+		 	android:layout_alignRight="@id/tape_pt_btn"
+		 	android:text="Stop"/>
+		
+	 	<TextView 
+	        android:id="@+id/tapedisttext"
+	        android:layout_width="120dip"
+	        android:layout_height="wrap_content" 
+	    	android:paddingLeft="10dip"
+	    	android:paddingTop="10dip"
+	    	android:layout_alignBottom="@id/tape_pt_btn"
+	        android:layout_toLeftOf="@id/tape_pt_btn"
+			android:textSize="12sp"
+			android:textColor="@color/darktext"
+			android:background="@color/whitecleargrd"
+	        android:text= "Length: 100.0ft"/>
+	     <TextView 
+	        android:id="@+id/tapeareatext"
+	        android:layout_width="120dip"
+	        android:layout_height="wrap_content" 
+	    	android:paddingLeft="10dip"
+	    	android:paddingTop="10dip"
+	    	android:layout_above="@id/tapedisttext"
+		 	android:layout_alignLeft="@id/tapedisttext"
+			android:textSize="12sp"
+			android:textColor="@color/darktext"
+			android:background="@color/whitecleargrd"
+	        android:text= "Area: 100.0 sqft"/>
+	     <Button
+		 	android:id="@+id/tape_report_btn"
+		 	android:layout_width="120dip"
+		 	android:layout_height="wrap_content"
+		 	android:layout_above="@id/tapeareatext"
+		 	android:layout_alignLeft="@id/tapeareatext"
+		 	android:text="Show Report"/>
+</RelativeLayout> 

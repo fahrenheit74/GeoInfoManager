@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="30dip"
+    android:paddingBottom="30dip"
+    android:paddingLeft="20dip"
+    android:paddingRight="20dip" >
+<RelativeLayout
+	android:orientation="horizontal"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content">
+	<TextView
+		android:id="@+id/sun_position_label"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:text="Sun Position "
+		/>
+	<TextView
+		android:id="@+id/spc_latitude_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/sun_position_label"
+		android:layout_alignLeft="@id/sun_position_label"
+		android:textStyle="normal"
+		android:textSize="16sp"
+		android:text="Latitude: "
+		/>
+	<TextView
+		android:id="@+id/spc_longitude_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/spc_latitude_text"
+		android:layout_alignLeft="@id/spc_latitude_text"
+		android:paddingBottom="10dip"
+		android:textStyle="normal"
+		android:textSize="16sp"
+		android:text="Longitude: "
+		/>
+	<ImageView
+		android:id="@+id/sunrise_img"
+		android:layout_width="96dip" 
+	    android:layout_height="96dip" 
+	    android:layout_below ="@id/spc_longitude_text"
+		android:layout_alignLeft="@id/spc_longitude_text"
+	    android:paddingRight="10dip"
+	    android:paddingTop="30dip"
+		android:src="@drawable/sunrise_big"
+		android:paddingBottom="20dip"
+		/>
+	<TextView
+		android:id="@+id/sunrise_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignTop="@id/sunrise_img"
+		android:layout_toRightOf="@id/sunrise_img"
+		android:text="Sunrise: 00:00:00"/>
+	<TextView
+		android:id="@+id/sunset_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/sunrise_text"
+		android:layout_alignLeft="@id/sunrise_text"
+		android:text="Sunset: 00:00:00"/>
+	<TextView
+		android:id="@+id/sun_elevation_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/sunset_text"
+		android:layout_alignLeft="@id/sunset_text"
+		android:text="Sun Elevation: 00.00"/>
+	<TextView
+		android:id="@+id/sun_azimuth_text"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/sun_elevation_text"
+		android:layout_alignLeft="@id/sun_elevation_text"
+		android:text="Sun Azimuth: 00.00"/>
+	<TextView
+		android:id="@+id/moon_phase_label"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/sun_azimuth_text"
+		android:layout_alignLeft="@id/sun_position_label"
+		android:paddingTop="30dip"
+		android:textStyle="bold"
+		android:textSize="18sp"
+		android:text="Moon Phase "
+		/>
+	<ImageView
+		android:id="@+id/moon_phase_view"
+		android:layout_width="96dip" 
+	    android:layout_height="96dip" 
+	    android:paddingRight="10dip"
+	    android:layout_below ="@id/moon_phase_label"
+		android:src="@drawable/moon14"
+		/>
+	<TextView
+		android:id="@+id/moon_phrase1"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignTop="@id/moon_phase_view"
+		android:layout_toRightOf="@id/moon_phase_view"
+		android:text="New Moon"/>
+	<TextView
+		android:id="@+id/moon_phrase2"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_below ="@id/moon_phrase1"
+		android:layout_alignLeft="@id/moon_phrase1"
+		android:text="Day 0"/>
+</RelativeLayout>
+</LinearLayout>

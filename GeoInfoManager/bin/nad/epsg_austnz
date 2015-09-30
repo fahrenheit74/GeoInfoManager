@@ -1,0 +1,133 @@
+# GDA94 / SA Lambert
+<au3107> +proj=lcc +lat_1=-28 +lat_2=-36 +lat_0=-32 +lon_0=135 +x_0=1000000 +y_0=2000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# AGD66 / Vicgrid66
+<au3110> +proj=lcc +lat_1=-36 +lat_2=-38 +lat_0=-37 +lon_0=145 +x_0=2500000 +y_0=4500000 +ellps=aust_SA +units=m +no_defs  <>
+# GDA94 / Vicgrid94
+<au3111> +proj=lcc +lat_1=-36 +lat_2=-38 +lat_0=-37 +lon_0=145 +x_0=2500000 +y_0=2500000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# GDA94 / Geoscience Australia Lambert
+<au3112> +proj=lcc +lat_1=-18 +lat_2=-36 +lat_0=0 +lon_0=134 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# GDA94 / BCSG02
+<au3113> +proj=tmerc +lat_0=-28 +lon_0=153 +k=0.999990 +x_0=50000 +y_0=100000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# GDA94 / NSW Lambert
+<au3308> +proj=lcc +lat_1=-30.75 +lat_2=-35.75 +lat_0=-33.25 +lon_0=147 +x_0=9300000 +y_0=4500000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# GDA94 / Australian Albers
+<au3577> +proj=aea +lat_1=-18 +lat_2=-36 +lat_0=0 +lon_0=132 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# AGD66 / AMG zone 48
+<au20248> +proj=utm +south +zone=48 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 48
+<au20248> +proj=utm +south +zone=48 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 49
+<au20249> +proj=utm +south +zone=49 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 50
+<au20250> +proj=utm +south +zone=50 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 51
+<au20251> +proj=utm +south +zone=51 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 52
+<au20252> +proj=utm +south +zone=52 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 53
+<au20253> +proj=utm +south +zone=53 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 54
+<au20254> +proj=utm +south +zone=54 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 55
+<au20255> +proj=utm +south +zone=55 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 56
+<au20256> +proj=utm +south +zone=56 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 57
+<au20257> +proj=utm +south +zone=57 +ellps=aust_SA +units=m +no_defs  <>
+# AGD66 / AMG zone 58
+<au20258> +proj=utm +south +zone=58 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 48
+<au20348> +proj=utm +south +zone=48 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 49
+<au20349> +proj=utm +south +zone=49 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 50
+<au20350> +proj=utm +south+zone=50 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 51
+<au20351> +proj=utm +south+zone=51 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 52
+<au20352> +proj=utm +south +zone=52 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 53
+<au20353> +proj=utm +south+zone=53 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 54
+<au20354> +proj=utm +south +zone=54 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 55
+<au20355> +proj=utm +south +zone=55 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 56
+<au20356> +proj=utm +south +zone=56 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 57
+<au20357> +proj=utm +south +zone=57 +ellps=aust_SA +units=m +no_defs  <>
+# AGD84 / AMG zone 58
+<au20358> +proj=utm +south +zone=58 +ellps=aust_SA +units=m +no_defs  <>
+# NZGD2000 / Mount Eden Circuit 2000
+<au2105> +proj=tmerc +lat_0=-36.87972222222222 +lon_0=174.7641666666667 +k=0.999900 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Bay of Plenty Circuit 2000
+<au2106> +proj=tmerc +lat_0=-37.76111111111111 +lon_0=176.4661111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Poverty Bay Circuit 2000
+<au2107> +proj=tmerc +lat_0=-38.62444444444444 +lon_0=177.8855555555556 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Hawkes Bay Circuit 2000
+<au2108> +proj=tmerc +lat_0=-39.65083333333333 +lon_0=176.6736111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Taranaki Circuit 2000
+<au2109> +proj=tmerc +lat_0=-39.13555555555556 +lon_0=174.2277777777778 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Tuhirangi Circuit 2000
+<au2110> +proj=tmerc +lat_0=-39.51222222222222 +lon_0=175.64 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Wanganui Circuit 2000
+<au2111> +proj=tmerc +lat_0=-40.24194444444444 +lon_0=175.4880555555555 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Wairarapa Circuit 2000
+<au2112> +proj=tmerc +lat_0=-40.92527777777777 +lon_0=175.6472222222222 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Wellington Circuit 2000
+<au2113> +proj=tmerc +lat_0=-41.3011111111111 +lon_0=174.7763888888889 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Collingwood Circuit 2000
+<au2114> +proj=tmerc +lat_0=-40.71472222222223 +lon_0=172.6719444444444 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Nelson Circuit 2000
+<au2115> +proj=tmerc +lat_0=-41.27444444444444 +lon_0=173.2991666666667 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Karamea Circuit 2000
+<au2116> +proj=tmerc +lat_0=-41.28972222222222 +lon_0=172.1088888888889 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Buller Circuit 2000
+<au2117> +proj=tmerc +lat_0=-41.81055555555555 +lon_0=171.5811111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Grey Circuit 2000
+<au2118> +proj=tmerc +lat_0=-42.33361111111111 +lon_0=171.5497222222222 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Amuri Circuit 2000
+<au2119> +proj=tmerc +lat_0=-42.68888888888888 +lon_0=173.01 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Marlborough Circuit 2000
+<au2120> +proj=tmerc +lat_0=-41.54444444444444 +lon_0=173.8019444444444 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Hokitika Circuit 2000
+<au2121> +proj=tmerc +lat_0=-42.88611111111111 +lon_0=170.9797222222222 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Okarito Circuit 2000
+<au2122> +proj=tmerc +lat_0=-43.11 +lon_0=170.2608333333333 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Jacksons Bay Circuit 2000
+<au2123> +proj=tmerc +lat_0=-43.97777777777778 +lon_0=168.6061111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Mount Pleasant Circuit 2000
+<au2124> +proj=tmerc +lat_0=-43.59055555555556 +lon_0=172.7269444444445 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Gawler Circuit 2000
+<au2125> +proj=tmerc +lat_0=-43.74861111111111 +lon_0=171.3605555555555 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Timaru Circuit 2000
+<au2126> +proj=tmerc +lat_0=-44.40194444444445 +lon_0=171.0572222222222 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Lindis Peak Circuit 2000
+<au2127> +proj=tmerc +lat_0=-44.735 +lon_0=169.4675 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Mount Nicholas Circuit 2000
+<au2128> +proj=tmerc +lat_0=-45.13277777777778 +lon_0=168.3986111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Mount York Circuit 2000
+<au2129> +proj=tmerc +lat_0=-45.56361111111111 +lon_0=167.7386111111111 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Observation Point Circuit 2000
+<au2130> +proj=tmerc +lat_0=-45.81611111111111 +lon_0=170.6283333333333 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / North Taieri Circuit 2000
+<au2131> +proj=tmerc +lat_0=-45.86138888888889 +lon_0=170.2825 +k=0.999960 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Bluff Circuit 2000
+<au2132> +proj=tmerc +lat_0=-46.6 +lon_0=168.3427777777778 +k=1.000000 +x_0=400000 +y_0=800000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / UTM zone 58S
+<au2133> +proj=utm +south +zone=58 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / UTM zone 59S
+<au2134> +proj=utm +south +zone=59 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / UTM zone 60S
+<au2135> +proj=utm +south +zone=60 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Auckland Islands TM 2000
+<au3788> +proj=tmerc +lat_0=0 +lon_0=166 +k=1 +x_0=3500000 +y_0=10000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Campbell Island TM 2000
+<au3789> +proj=tmerc +lat_0=0 +lon_0=169 +k=1 +x_0=3500000 +y_0=10000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Antipodes Islands TM 2000
+<au3790> +proj=tmerc +lat_0=0 +lon_0=179 +k=1 +x_0=3500000 +y_0=10000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Raoul Island TM 2000
+<au3791> +proj=tmerc +lat_0=0 +lon_0=-178 +k=1 +x_0=3500000 +y_0=10000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+# NZGD2000 / Chatham Islands TM 2000
+<au3793> +proj=tmerc +lat_0=0 +lon_0=-176.5 +k=1 +x_0=3500000 +y_0=10000000 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+#end of file

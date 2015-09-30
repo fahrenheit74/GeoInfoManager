@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.eleksheep.gim"
+      android:versionCode="3"
+      android:versionName="2.5">
+     <uses-permission android:name="android.permission.ACCESS_COURSE_LOCATION"/>
+     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+     <uses-permission android:name="android.permission.INTERNET" />
+     <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+	 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+	 <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+	 
+     <application android:icon="@drawable/icon" 
+     			  android:label="@string/app_name" 
+     			  android:theme="@android:style/Theme.NoTitleBar">
+        <activity android:name=".main"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<activity
+        	android:name=".About"
+        	android:label="@string/about_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".Hints"
+        	android:label="@string/about_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".StorePoint"
+        	android:label="@string/storepoint_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".ViewPointDB"
+        	android:label="@string/viewpointdb_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".NavigateGPS"
+        	android:label="@string/navigate_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".MapViewActivity"
+        	android:label="@string/navigate_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".TapeMeasure"
+        	android:label="@string/gps_tapemeasure_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".SunPosCalc"
+        	android:label="@string/suncalc_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".SymbolGridView"
+        	android:label="@string/symbolgrid_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".SatActivity"
+        	android:label="@string/satview_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".ReadGPXFile"
+        	android:label="@string/readgpxfile_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".FileBrowser"
+        	android:label="@string/filebrowser_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".AddressEditor"
+        	android:label="@string/addresseditor_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".NoteEditor"
+        	android:label="@string/noteeditor_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".PointEditor"
+        	android:label="@string/pointeditor_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".SortOptions"
+        	android:label="@string/sort_options_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".TestProj1"
+        	android:label="@string/coordsys_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".DBOptions"
+        	android:label="@string/database_options_label"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".Report"
+        	android:label="@string/report_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".SaveReport"
+        	android:label="@string/report_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <activity
+        	android:name=".StakeOutView"
+        	android:label="@string/report_title"
+        	android:screenOrientation="portrait">
+        </activity>
+        <uses-library android:name="com.google.android.maps" />
+    </application>
+    <uses-sdk android:minSdkVersion="3" />
+
+</manifest> 

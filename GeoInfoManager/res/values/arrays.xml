@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<string-array name="coordsystems">
+		<item>US State Plane NAD83</item>
+		<item>UTM North</item>
+		<item>UTM South</item>
+		<item>Europe </item>
+		<item>Australia and New Zealand</item>
+		<item>Japan Korea and Hong Kong</item>
+		<item>Malaysia Indonesia and Philippines</item>
+		<item>India Pakistan and Bangladesh</item>
+		<item>Middle East</item>
+		<item>Africa</item>
+		<item>Caribbean Islands</item>
+		<item>South America</item>
+		<item>North America</item>
+		<item>China</item>
+	</string-array>
+
+<string-array name="utmzones_n">
+		<item>AUTOMATIC ZONE SELECTION NORTH</item>
+		<item>UTM ZONE 1 NORTH</item>
+		<item>UTM ZONE 2 NORTH</item>
+		<item>UTM ZONE 3 NORTH</item>
+		<item>UTM ZONE 4 NORTH</item>
+		<item>UTM ZONE 5 NORTH</item>
+		<item>UTM ZONE 6 NORTH</item>
+		<item>UTM ZONE 7 NORTH</item>
+		<item>UTM ZONE 8 NORTH</item>
+		<item>UTM ZONE 9 NORTH</item>
+		<item>UTM ZONE 10 NORTH</item>
+		<item>UTM ZONE 11 NORTH</item>
+		<item>UTM ZONE 12 NORTH</item>
+		<item>UTM ZONE 13 NORTH</item>
+		<item>UTM ZONE 14 NORTH</item>
+		<item>UTM ZONE 15 NORTH</item>
+		<item>UTM ZONE 16 NORTH</item>
+		<item>UTM ZONE 17 NORTH</item>
+		<item>UTM ZONE 18 NORTH</item>
+		<item>UTM ZONE 19 NORTH</item>
+		<item>UTM ZONE 20 NORTH</item>
+		<item>UTM ZONE 21 NORTH</item>
+		<item>UTM ZONE 22 NORTH</item>
+		<item>UTM ZONE 23 NORTH</item>
+		<item>UTM ZONE 24 NORTH</item>
+		<item>UTM ZONE 25 NORTH</item>
+		<item>UTM ZONE 26 NORTH</item>
+		<item>UTM ZONE 27 NORTH</item>
+		<item>UTM ZONE 28 NORTH</item>
+		<item>UTM ZONE 29 NORTH</item>
+		<item>UTM ZONE 30 NORTH</item>
+		<item>UTM ZONE 31 NORTH</item>
+		<item>UTM ZONE 32 NORTH</item>
+		<item>UTM ZONE 33 NORTH</item>
+		<item>UTM ZONE 34 NORTH</item>
+		<item>UTM ZONE 35 NORTH</item>
+		<item>UTM ZONE 36 NORTH</item>
+		<item>UTM ZONE 37 NORTH</item>
+		<item>UTM ZONE 38 NORTH</item>
+		<item>UTM ZONE 39 NORTH</item>
+		<item>UTM ZONE 40 NORTH</item>
+		<item>UTM ZONE 41 NORTH</item>
+		<item>UTM ZONE 42 NORTH</item>
+		<item>UTM ZONE 43 NORTH</item>
+		<item>UTM ZONE 44 NORTH</item>
+		<item>UTM ZONE 45 NORTH</item>
+		<item>UTM ZONE 46 NORTH</item>
+		<item>UTM ZONE 47 NORTH</item>
+		<item>UTM ZONE 48 NORTH</item>
+		<item>UTM ZONE 49 NORTH</item>
+		<item>UTM ZONE 50 NORTH</item>
+		<item>UTM ZONE 51 NORTH</item>
+		<item>UTM ZONE 52 NORTH</item>
+		<item>UTM ZONE 53 NORTH</item>
+		<item>UTM ZONE 54 NORTH</item>
+		<item>UTM ZONE 55 NORTH</item>
+		<item>UTM ZONE 56 NORTH</item>
+		<item>UTM ZONE 57 NORTH</item>
+		<item>UTM ZONE 58 NORTH</item>
+		<item>UTM ZONE 59 NORTH</item>
+		<item>UTM ZONE 60 NORTH</item>
+	</string-array>
+	
+<string-array name="utmzones_s">
+		<item>AUTOMATIC ZONE SELECTION SOUTH</item>
+		<item>UTM ZONE 1 SOUTH</item>
+		<item>UTM ZONE 2 SOUTH</item>
+		<item>UTM ZONE 3 SOUTH</item>
+		<item>UTM ZONE 4 SOUTH</item>
+		<item>UTM ZONE 5 SOUTH</item>
+		<item>UTM ZONE 6 SOUTH</item>
+		<item>UTM ZONE 7 SOUTH</item>
+		<item>UTM ZONE 8 SOUTH</item>
+		<item>UTM ZONE 9 SOUTH</item>
+		<item>UTM ZONE 10 SOUTH</item>
+		<item>UTM ZONE 11 SOUTH</item>
+		<item>UTM ZONE 12 SOUTH</item>
+		<item>UTM ZONE 13 SOUTH</item>
+		<item>UTM ZONE 14 SOUTH</item>
+		<item>UTM ZONE 15 SOUTH</item>
+		<item>UTM ZONE 16 SOUTH</item>
+		<item>UTM ZONE 17 SOUTH</item>
+		<item>UTM ZONE 18 SOUTH</item>
+		<item>UTM ZONE 19 SOUTH</item>
+		<item>UTM ZONE 20 SOUTH</item>
+		<item>UTM ZONE 21 SOUTH</item>
+		<item>UTM ZONE 22 SOUTH</item>
+		<item>UTM ZONE 23 SOUTH</item>
+		<item>UTM ZONE 24 SOUTH</item>
+		<item>UTM ZONE 25 SOUTH</item>
+		<item>UTM ZONE 26 SOUTH</item>
+		<item>UTM ZONE 27 SOUTH</item>
+		<item>UTM ZONE 28 SOUTH</item>
+		<item>UTM ZONE 29 SOUTH</item>
+		<item>UTM ZONE 30 SOUTH</item>
+		<item>UTM ZONE 31 SOUTH</item>
+		<item>UTM ZONE 32 SOUTH</item>
+		<item>UTM ZONE 33 SOUTH</item>
+		<item>UTM ZONE 34 SOUTH</item>
+		<item>UTM ZONE 35 SOUTH</item>
+		<item>UTM ZONE 36 SOUTH</item>
+		<item>UTM ZONE 37 SOUTH</item>
+		<item>UTM ZONE 38 SOUTH</item>
+		<item>UTM ZONE 39 SOUTH</item>
+		<item>UTM ZONE 40 SOUTH</item>
+		<item>UTM ZONE 41 SOUTH</item>
+		<item>UTM ZONE 42 SOUTH</item>
+		<item>UTM ZONE 43 SOUTH</item>
+		<item>UTM ZONE 44 SOUTH</item>
+		<item>UTM ZONE 45 SOUTH</item>
+		<item>UTM ZONE 46 SOUTH</item>
+		<item>UTM ZONE 47 SOUTH</item>
+		<item>UTM ZONE 48 SOUTH</item>
+		<item>UTM ZONE 49 SOUTH</item>
+		<item>UTM ZONE 50 SOUTH</item>
+		<item>UTM ZONE 51 SOUTH</item>
+		<item>UTM ZONE 52 SOUTH</item>
+		<item>UTM ZONE 53 SOUTH</item>
+		<item>UTM ZONE 54 SOUTH</item>
+		<item>UTM ZONE 55 SOUTH</item>
+		<item>UTM ZONE 56 SOUTH</item>
+		<item>UTM ZONE 57 SOUTH</item>
+		<item>UTM ZONE 58 SOUTH</item>
+		<item>UTM ZONE 59 SOUTH</item>
+		<item>UTM ZONE 60 SOUTH</item>
+	</string-array>
+	
+<string-array name="stateplanenad83">
+		<item>ALABAMA EAST FZ:101</item> 
+		<item>ALABAMA WEST FZ:102</item> 
+		<item>ALASKA ZONE 1 FZ:5001</item>  
+		<item>ALASKA ZONE 2 FZ:5002</item> 
+		<item>ALASKA ZONE 3 FZ:5003</item> 
+		<item>ALASKA ZONE 4 FZ:5004</item> 
+		<item>ALASKA ZONE 5 FZ:5005</item>
+		<item>ALASKA ZONE 6 FZ:5006</item>
+		<item>ALASKA ZONE 7 FZ:5007</item>
+		<item>ALASKA ZONE 8 FZ:5008</item>
+		<item>ALASKA ZONE 9 FZ:5009</item>
+		<item>ALASKA ZONE 10 FZ:5010</item>
+		<item>ARIZONA EAST FZ:201</item>
+		<item>ARIZONA CENT FZ:202</item> 
+		<item>ARIZONA WEST FZ:203</item> 
+		<item>ARKANSAS NORTH FZ:301</item> 
+		<item>ARKANSAS SOUTH FZ:302</item> 
+		<item>CALIFORNIA  I FZ:401</item> 
+		<item>CALIFORNIA  II FZ:402</item>
+		<item>CALIFORNIA  III FZ:403</item>
+		<item>CALIFORNIA  IV FZ:404</item>
+		<item>CALIFORNIA  V FZ:405</item> 
+		<item>CALIFORNIA  VI FZ:406</item> 
+		<item>COLORADO NORTH FZ:501</item> 
+		<item>COLORADO CENT FZ:502</item> 
+		<item>COLORADO SOUTH FZ:503</item> 
+		<item>CONNECTICUT FZ:600</item> 
+		<item>DELAWARE FZ:700</item> 
+		<item>FLORIDA EAST FZ:901</item> 
+		<item>FLORIDA WEST FZ:902</item> 
+		<item>FLORIDA NORTH FZ:903</item> 
+		<item>GEORGIA EAST FZ:1001</item> 
+		<item>GEORGIA WEST FZ:1002</item> 
+		<item>HAWAII ZONE 1 FZ:5101</item> 
+		<item>HAWAII ZONE 2 FZ:5102</item>
+		<item>HAWAII ZONE  3 FZ:5103</item> 
+		<item>HAWAII ZONE 4 FZ:5104</item>
+		<item>HAWAII ZONE 5 FZ:5105</item>
+		<item>IDAHO EAST FZ:1101</item> 
+		<item>IDAHO CENT FZ:1102</item> 
+		<item>IDAHO WEST FZ:1103</item> 
+		<item>ILLINOIS EAST FZ:1201</item>  
+		<item>ILLINOIS WEST FZ:1202</item> 
+		<item>INDIANA EAST FZ:1301</item>  
+		<item>INDIANA WEST FZ:1302</item>  
+		<item>IOWA NORTH FZ:1401</item> 
+		<item>IOWA SOUTH FZ:1402</item>  
+		<item>KANSAS NORTH FZ:1501</item> 
+		<item>KANSAS SOUTH FZ:1502</item> 
+		<item>KENTUCKY NORTH FZ:1601</item>  
+		<item>KENTUCKY SOUTH FZ:1602</item> 
+		<item>LOUISIANA NORTH FZ:1701</item>  
+		<item>LOUISIANA SOUTH FZ:1702</item> 
+		<item>LOUISIANA OFS FZ:1703</item> 
+		<item>MAINE EAST FZ:1801</item>  
+		<item>MAINE WEST FZ:1802</item> 
+		<item>MARYLAND FZ:1900</item> 
+		<item>MASSACHUSETTS MLD FZ:2001</item> 
+		<item>MASSACHUSETTS ISL FZ:2002</item> 
+		<item>MICHIGAN NORTH FZ:2111</item>  
+		<item>MICHIGAN CENT FZ:2112</item> 
+		<item>MICHIGAN SOUTH FZ:2113</item>  
+		<item>MINNESOTA NORTH FZ:2201</item>  
+		<item>MINNESOTA CENT FZ:2202</item>  
+		<item>MINNESOTA SOUTH FZ:2203</item>  
+		<item>MISSISSIPPI EAST FZ:2301</item> 
+		<item>MISSISSIPPI WEST FZ:2302</item> 
+		<item>MISSOURI EAST FZ:2401</item>  
+		<item>MISSOURI CENT FZ:2402</item>  
+		<item>MISSOURI WEST FZ:2403</item>  
+		<item>MONTANA FZ:2500</item> 
+		<item>NEBRASKA FZ:2600</item> 
+		<item>NEVADA EAST FZ:2701</item> 
+		<item>NEVADA CENT FZ:2702</item> 
+		<item>NEVADA WEST FZ:2703</item> 
+		<item>NEW HAMPSHIRE FZ:2800</item> 
+		<item>NEW JERSEY FZ:2900</item> 
+		<item>NEW MEXICO EAST FZ:3001</item>  
+		<item>NEW MEXICO CENT FZ:3002</item>  
+		<item>NEW MEXICO WEST FZ:3003</item> 
+		<item>NEW YORK EAST FZ:3101</item> 
+		<item>NEW YORK CENT FZ:3102</item> 
+		<item>NEW YORK WEST FZ:3103</item> 
+		<item>NEW YORK LONG ISL FZ:3104</item> 
+		<item>NORTH CAROLINA FZ:3200</item>
+		<item>NORTH DAKOTA NORTH FZ:3301</item>
+		<item>NORTH DAKOTA SOUTH FZ:3302</item>
+		<item>OHIO NORTH FZ:3401</item>
+		<item>OHIO SOUTH FZ:3402</item>
+		<item>OKLAHOMA NORTH FZ:3501</item>
+		<item>OKLAHOMA SOUTH FZ:3502</item>
+		<item>OREGON NORTH FZ:3601</item>
+		<item>OREGON SOUTH FZ:3602</item>
+		<item>PENNSYLVANIA SOUTH FZ:3702</item>
+		<item>RHODE ISLAND FZ:3800</item>
+		<item>SOUTH CAROLINA FZ:3900</item>
+		<item>SOUTH DAKOTA NORTH FZ:4001</item>
+		<item>SOUTH DAKOTA SOUTH FZ:4002</item>
+		<item>TENNESSEE FZ:4100</item>
+		<item>SOUTH DAKOTA SOUTH FZ:4002</item>
+		<item>TEXAS NORTH FZ:4201</item>
+		<item>TEXAS NORTH CENT FZ:4202</item>
+		<item>TEXAS CENT FZ:4203</item>
+		<item>TEXAS SOUTH CENT FZ:4204</item>
+		<item>TEXAS SOUTH FZ:4205</item>
+		<item>UTAH NORTH FZ:4301</item>
+		<item>UTAH CENT FZ:4302</item>
+		<item>UTAH SOUTH FZ:4303</item>
+		<item>VERMONT FZ:4400</item>
+		<item>VIRGINIA NORTH FZ:4501</item>
+		<item>VIRGINIA SOUTH FZ:4502</item>
+		<item>WASHINGTON NORTH FZ:4601</item>
+		<item>WASHINGTON SOUTH FZ:4602</item>
+		<item>WEST VIRGINIA NORTH FZ:4701</item>
+		<item>WEST VIRGINIA SOUTH FZ:4702</item>
+		<item>WISCONSIN NORTH FZ:4801</item>
+		<item>WISCONSIN CENT FZ:4802</item>
+		<item>WISCONSIN SOUTH FZ:4803</item>
+		<item>WYOMING EAST FZ:4901</item>
+		<item>WYOMING EAST CENT FZ:4902</item>
+		<item>WYOMING WEST CENT FZ:4903</item>
+		<item>WYOMING WEST FZ:4904</item>
+	</string-array>
+		
+	<string-array name="europe_epsg">
+		<item>Europe All ETRS89/ETRS-LCC EPSG:3034</item>
+	    <item>Europe ETRS-TM26 EPSG:3038</item>
+	    <item>Europe ETRS-TM27 EPSG:3039</item>
+	    <item>Europe ETRS-TM28 EPSG:3040</item>
+	    <item>Europe ETRS-TM29 EPSG:3041</item>
+	    <item>Europe ETRS-TM30 EPSG:3042</item>
+	    <item>Europe ETRS-TM31 EPSG:3043</item>
+	    <item>Europe ETRS-TM32 EPSG:3044</item>
+	    <item>Europe ETRS-TM33 EPSG:3045</item>
+	    <item>Europe ETRS-TM34 EPSG:3046</item>
+	    <item>Europe ETRS-TM35 EPSG:3047</item>
+	    <item>Europe ETRS-TM36 EPSG:3048</item>
+	    <item>Europe ETRS-TM37 EPSG:3049</item>
+	    <item>Europe ETRS-TM38 EPSG:3050</item>
+	    <item>Europe ETRS-TM38 EPSG:3051</item>   
+	    <item>Europe All ETRS89 EPSG:3035</item>
+		<item>Albanian 1987/G-K Z-4 EPSG:2462</item>
+        <item>Austria Lambert(ETRS89) EPSG:3416</item>
+        <item>Belgian Lambert 2005(ETRS89) EPSG:3447</item>
+        <item>Lithuania TM(LKS94) EPSG:3346</item>
+        <item>Finland/ETRS-GK31FIN(ETRS89) EPSG:3138</item>
+		<item>ATF (Paris)/ Nord de Guerre EPSG:27500</item>
+		<item>NTF (Paris)/Lambert Nord France EPSG:27561</item>
+		<item>NTF (Paris)/Lambert Centre France EPSG:27562</item>
+		<item>NTF (Paris)/Lambert Sud France EPSG:27563</item>
+		<item>NTF (Paris)/Lambert Corse EPSG:27564</item>
+		<item>NTF (Paris)/Lambert zone I EPSG:27571</item>
+		<item>NTF (Paris)/Lambert zone II EPSG:27572</item>
+		<item>NTF (Paris)/Lambert zone III EPSG:27573</item>
+		<item>NTF (Paris)/Lambert zone IV EPSG:27574</item>
+		<item>NTF (Paris)/France I (DEP) EPSG:27581</item>
+		<item>NTF (Paris)/France II (DEP) EPSG:27582</item>
+		<item>NTF (Paris)/France III (DEP) EPSG:27583</item>
+		<item>NTF (Paris)/France IV (DEP) EPSG:27584</item>
+		<item>NTF (Paris)/Nord France (DEP) EPSG:27591</item>
+		<item>NTF (Paris)/Centre France (DEP) EPSG:27592</item>
+		<item>NTF (Paris)/Sud France (DEP) EPSG:27593</item>
+		<item>NTF (Paris)/Corse (DEP) EPSG:27594</item>
+		<item>TM75/Irish Grid EPSG:29903</item>
+		<item>OSNI 1952/Irish Nat Grid EPSG:29901</item>
+		<item>TM65/Irish Nat Grid EPSG:29902</item>
+		<item>TM65/Irish Nat Grid(DEP) EPSG:29900</item>
+		<item>IRENET95/Irish TM EPSG:2157</item>
+		<item>IRENET95/UTM zone 29N EPSG:2158</item>
+		<item>ETRS89/Poland CS2000 Z-5 EPSG:2176</item>
+		<item>ETRS89/Poland CS2000 Z-6 EPSG:2177</item>
+		<item>ETRS89/Poland CS2000 Z-7 EPSG:2178</item>
+		<item>ETRS89/Poland CS2000 Z-7 EPSG:2178</item>
+		<item>ETRS89/Poland CS92 EPSG:2178</item>
+		<item>ETRS89/Kp2000 Jutland EPSG:2196</item>
+		<item>ETRS89/Kp2000 Zealand EPSG:2197</item>
+		<item>ETRS89/Kp2000 Bornholm EPSG:2198</item>
+		<item>ETRS89/Baltic States TM EPSG:25884</item>
+		<item>ETRS89/ETRS-LCC EPSG:3034</item>
+		<item>ETRS89/TM 30 NE EPSG:2213</item>
+		<item>Estonian Coord Sys 1992 EPSG:3300</item>
+		<item>Estonian Coord Sys 1997 EPSG:3301</item>
+		<item>KKJ/Finland zone 0 EPSG:3386</item>
+		<item>KKJ/Finland zone 5 EPSG:3387</item>
+		<item>Pulkovo 1942/Caspian Sea Mercator EPSG:3388</item>
+		<item>Portugal/Azores Oriental 1995/UTM zone 26N EPSG:3062</item>
+		<item>Portugal/Azores Central 1995/UTM zone 26N EPSG:3063</item>
+		<item>Portugal/Azores Occidental 1939/UTM zone 25N EPSG:2188</item>
+		<item>Portugal/Azores Central 1948/UTM zone 26N EPSG:2188</item>
+		<item>Portugal/Azores Oriental 1940/UTM zone 26N EPSG:2190</item>
+		<item>Portugal/Madeira 1936/UTM zone 28N EPSG:2191</item>
+	</string-array>
+	
+	<string-array name="nz_australia_epsg">
+	    <item>Australia/South Aust/GDA94/SA Lambert EPSG:3107</item>
+	    <item>Australia/Victoria/AGD6/Vicgrid66 EPSG:3110</item>
+	    <item>Australia/Victoria/GDA94/Vicgrid94 EPSG:3111</item>
+	    <item>Australia/All States/GDA94/Geoscience Aust Lambert EPSG:3112</item>
+	    <item>Australia/Queensland-Brisbane/GDA94/BCSG02 EPSG:3113</item>
+	    <item>Australia/New South Wales/GDA94/NSW Lambert EPSG:3308</item>
+	    <item>Australia/GDA94/Australian Albers EPSG:3577</item>
+	    <item>Australia/GD66/AMG zone 48 EPSG:20248</item>
+	    <item>Australia/GD66/AMG zone 49 ESPG:20249</item>
+	    <item>Australia/AGD66/AMG zone 50 ESPG:20250</item>
+	    <item>Australia/AGD66/AMG zone 51 ESPG:20251</item>
+	    <item>Australia/AGD66/AMG zone 52 ESPG:20252</item>
+	    <item>Australia/AGD66/AMG zone 53 ESPG:20253</item>
+	    <item>Australia/AGD66/AMG zone 54 ESPG:20254</item>
+	    <item>Australia/AGD66/AMG zone 55 ESPG:20255</item>
+	    <item>Australia/AGD66/AMG zone 56 ESPG:20256</item>
+	    <item>Australia/AGD66/AMG zone 57 ESPG:20257</item>
+	    <item>Australia/AGD66/AMG zone 58 ESPG:20258</item>
+		<item>New Zealand GD2000/Mount Eden Circuit 2000 EPSG:2105</item>
+		<item>NZGD2000/Bay of Plenty Circuit 2000 EPSG:2106</item>
+		<item>NZGD2000/Poverty Bay Circuit 2000 EPSG:2107</item>
+		<item>NZGD2000/Hawkes Bay Circuit 2000 EPSG:2108</item>
+		<item>NZGD2000/Taranaki Circuit 2000 EPSG:2109</item>
+		<item>NZGD2000/Tuhirangi Circuit 2000 EPSG:2110</item>
+		<item>NZGD2000/Wanganui Circuit 2000 EPSG:2111</item>
+		<item>NZGD2000/Wairarapa Circuit 2000 EPSG:2112</item>
+		<item>ZGD2000/Wellington Circuit 2000 EPSG:2113</item>
+		<item>NZGD2000 Collingwood Circuit 2000 EPSG:2114</item>
+		<item>NZGD2000/Nelson Circuit 2000 EPSG:2115</item>
+		<item>NZGD2000/Karamea Circuit 2000 EPSG:2116</item>
+		<item>NZGD2000/Buller Circuit 2000 EPSG:2117</item>
+		<item>NZGD2000/Grey Circuit 2000 EPSG:2118</item>
+		<item>NZGD2000/Amuri Circuit 2000 EPSG:2119</item>
+		<item>NZGD2000/Marlborough Circuit 2000 EPSG:2120</item>
+		<item>NZGD2000/Hokitika Circuit 2000 EPSG:2121</item>
+		<item>NZGD2000/Okarito Circuit 2000 EPSG:2122</item>
+		<item>NZGD2000/Jacksons Bay Circuit 2000 EPSG:2123</item>
+		<item>NZGD2000/Mount Pleasant Circuit EPSG:2124</item>
+		<item>NZGD2000/Gawler Circuit 2000 EPSG:2125</item>
+		<item>NZGD2000/Timaru Circuit 2000 EPSG:2126</item>
+		<item>NZGD2000/Lindis Peak Circuit 2000 EPSG:2127</item>
+		<item>NZGD2000/Mount Nicholas Circuit 2000:2128</item>
+		<item>NZGD2000/Mount York Circuit 2000 EPSG:2129</item>
+		<item>NZGD2000/Observation Point Circuit 2000 EPSG:2130</item>
+		<item>NZGD2000/North Taieri Circuit 2000 EPSG:2131</item>
+		<item>NZGD2000/Bluff Circuit 2000 EPSG:2132</item>
+		<item>NZGD2000/UTM zone 58S EPSG:2133</item>
+		<item>NZGD2000/UTM zone 59S EPSG:2134</item>
+		<item>NZGD2000/UTM zone 60S EPSG:2135</item>
+		<item>NZGD2000/Auckland Islands TM 2000 EPSG:3788</item>
+		<item>NZGD2000/Campbell Island TM 2000 EPSG:3789</item>
+		<item>NZGD2000/Antipodes Islands TM 2000 EPSG:3790</item>
+		<item>NZGD2000/Raoul Island TM 2000 EPSG:3791</item>
+		<item>NZGD2000/Chatham Islands TM 2000 EPSG:3793</item>
+	</string-array>
+	
+	<string-array name="japan_korea_taiwan">
+		<item>Japan/JCD2000 Zone I EPSG:2443</item>
+		<item>Japan/JCD2000 Zone II EPSG:2444</item>
+		<item>Japan/JCD2000 Zone III EPSG:2445</item>
+		<item>Japan/JCD2000 Zone IV EPSG:2446</item>
+		<item>Japan/JCD2000 Zone V EPSG:2447</item>
+		<item>Japan/JCD2000 Zone VI EPSG:2448</item>
+		<item>Japan/JCD2000 Zone VII EPSG:2449</item>
+		<item>Japan/JCD2000 Zone VIII EPSG:2450</item>
+		<item>Japan/JCD2000 Zone IX EPSG:2451</item>
+		<item>Japan/JCD2000 Zone X EPSG:2452</item>
+		<item>Japan/JCD2000 Zone XI EPSG:2453</item>
+		<item>Japan/JCD2000 Zone XII EPSG:2454</item>
+		<item>Japan/JCD2000 Zone XIII EPSG:2455</item>
+		<item>Japan/JCD2000 Zone XIV EPSG:2456</item>
+		<item>Japan/JCD2000 Zone XV EPSG:2457</item>
+		<item>Japan/JCD2000 Zone XVI EPSG:2458</item>
+		<item>Japan/JCD2000 Zone XVII EPSG:2459</item>
+		<item>Japan/JCD2000 Zone XVIII EPSG:2460</item>
+		<item>Japan/JCD2000 Zone XIX EPSG:2461</item>
+		<item>Japan/Tokyo UTM Zone 51N EPSG:3097</item>
+		<item>Japan/Tokyo UTM Zone 52N EPSG:3098</item>
+		<item>Japan/Tokyo UTM Zone 53N EPSG:3099</item>
+		<item>Japan/Tokyo UTM Zone 54N EPSG:3100</item>
+		<item>Japan/Tokyo UTM Zone 55N EPSG:3101</item>
+		<item>Japan/Tokyo Plane Rect CS I EPSG:30161</item>
+		<item>Japan/Tokyo Plane Rect CS II EPSG:30162</item>
+		<item>Japan/Tokyo Plane Rect CS III EPSG:30163</item>
+		<item>Japan/Tokyo Plane Rect CS IV EPSG:30164</item>
+		<item>Japan/Tokyo Plane Rect CS V EPSG:30165</item>
+		<item>Japan/Tokyo Plane Rect CS VI EPSG:30166</item>
+		<item>Japan/Tokyo Plane Rect CS VII EPSG:30167</item>
+		<item>Japan/Tokyo Plane Rect CS VIII EPSG:30168</item>
+		<item>Japan/Tokyo Plane Rect CS IX EPSG:30169</item>
+		<item>Japan/Tokyo Plane Rect CS X EPSG:30170</item>
+		<item>Japan/Tokyo Plane Rect CS XI EPSG:30171</item>
+		<item>Japan/Tokyo Plane Rect CS XII EPSG:30172</item>
+		<item>Japan/Tokyo Plane Rect CS XIII EPSG:30173</item>
+		<item>Japan/Tokyo Plane Rect CS XIV EPSG:30174</item>
+		<item>Japan/Tokyo Plane Rect CS XV EPSG:30175</item>
+		<item>Japan/Tokyo Plane Rect CS XVI EPSG:30176</item>
+		<item>Japan/Tokyo Plane Rect CS XVII EPSG:30177</item>
+		<item>Japan/Tokyo Plane Rect CS XVIII EPSG:30178</item>
+		<item>Japan/Tokyo Plane Rect CS XIX EPSG:30179</item>
+		<item>South Korea/Korean 1985/Korea East Belt EPSG:2096</item>
+		<item>South Korea/Korean 1985/Korea Central Belt EPSG:2097</item>
+		<item>South Korea/Korean 1985/Korea West Belt EPSG:2098</item>
+		<item>South Korea/Korean 1985 EPSG:4162</item>
+		<item>South Korea/Korean 2000 EPSG:4737</item>
+		<item>Hong Kong/Hong Kong 1963 EPSG:4738</item>
+		<item>Hong Kong/Hong Kong 1963(1967) EPSG:4739</item>
+	</string-array>
+	
+	<string-array name="malaysia">
+		<item>Malaysia/GDM2000/Peninsula RSO EPSG:3375</item>
+		<item>Malaysia/GDM2000/East Malaysia BRSO EPSG:3376</item>
+		<item>Malaysia/GDM2000/Johor Grid EPSG:3377</item>
+		<item>Malaysia/GDM2000/Sembilan and Melaka Grid EPSG:3378</item>
+		<item>Malaysia/GDM2000/Pahang Grid EPSG:3379</item>
+		<item>Malaysia/GDM2000/Selangor Grid EPSG:3380</item>
+		<item>Malaysia/GDM2000/Terengganu Grid EPSG:3381</item>
+		<item>Malaysia/GDM2000/Pinang Grid EPSG:3382</item>
+		<item>Malaysia/GDM2000/Kedah and Perlis Grid EPSG:3383</item>
+		<item>Malaysia/GDM2000/Perak Grid EPSG:3384</item>
+		<item>Malaysia/GDM2000/Kelantan Grid EPSG:3385</item>
+		<item>Brunei and East Malaysia/Timbalai 1948/RSO Borneo EPSG:29873</item>
+		<item>Singapore/Kertau 1968/Singapore Grid EPSG:24500</item>
+		<item>Indonesia/ID74/UTM Zone 48N EPSG:23848</item>
+		<item>Indonesia/ID74/UTM Zone 49N EPSG:23849</item>
+		<item>Indonesia/ID74/UTM Zone 50N EPSG:23850</item>
+		<item>Indonesia/ID74/UTM Zone 51N EPSG:23851</item>
+		<item>Indonesia/ID74/UTM Zone 52N EPSG:23852</item>
+		<item>Indonesia/ID74/UTM Zone 53N EPSG:23853</item>
+		<item>Indonesia/ID74/UTM Zone 46S EPSG:23886</item>
+		<item>Indonesia/ID74/UTM Zone 47S EPSG:23887</item>
+		<item>Indonesia/ID74/UTM Zone 48S EPSG:23888</item>
+		<item>Indonesia/ID74/UTM Zone 49S EPSG:23889</item>
+		<item>Indonesia/ID74/UTM Zone 50S EPSG:23890</item>
+		<item>Indonesia/ID74/UTM Zone 51S EPSG:23891</item>
+		<item>Indonesia/ID74/UTM Zone 52S EPSG:23892</item>
+		<item>Indonesia/ID74/UTM Zone 53S EPSG:23893</item>
+		<item>Indonesia/ID74/UTM Zone 54S EPSG:23894</item>
+		<item>Philippines/PRS92 Zone 1 EPSG:3121</item>
+		<item>Philippines/PRS92 Zone 2 EPSG:3122</item>
+		<item>Philippines/PRS92 Zone 3 EPSG:3123</item>
+		<item>Philippines/PRS92 Zone 4 EPSG:3124</item>
+		<item>Philippines/PRS92 Zone 5 EPSG:3125</item>
+		<item>Philippines/Luzon 1911 Zone I EPSG:25391</item>
+		<item>Philippines/Luzon 1911 Zone II EPSG:25392</item>
+		<item>Philippines/Luzon 1911 Zone III EPSG:25393</item>
+		<item>Philippines/Luzon 1911 Zone IV EPSG:25394</item>
+		<item>Philippines/Luzon 1911 Zone V EPSG:25395</item>
+		<item>Fiji/Fiji 1956/UTM Zone 60S EPSG:3141</item>
+		<item>Fiji/Fiji 1956/UTM Zone 1S EPSG:3142</item>
+		<item>Fiji/Fiji Map Grid1986 EPSG:3143</item>
+		<item>New Caledonia/Lambert EPSG:3163</item>
+	</string-array>
+	
+	<string-array name="india">
+		<item>Pakistan/Kalianpur 1880/India zone 0 EPSG:24370</item>
+		<item>India-Pakistan/Kalianpur 1880/India Zone I EPSG:24371</item>
+		<item>India-Pakistan/Kalianpur 1880/India Zone IIa EPSG:24372</item>
+		<item>India/Kalianpur 1880/India Zone III EPSG:24373</item>
+		<item>India/Kalianpur 1880/India Zone IV EPSG:24374</item>
+		<item>Bangladesh/Kalianpur 1937/India Zone IIb EPSG:24375</item>
+		<item>Pakistan/Kalianpur 1962/India zone I EPSG:24376</item>
+		<item>Pakistan/Kalianpur 1962/India zone IIa EPSG:24377</item>
+		<item>India/Kalianpur 1975/India zone I EPSG:24378</item>
+		<item>India/Kalianpur 1975/India zone IIa EPSG:24379</item>
+		<item>India/Kalianpur 1975/India zone IIb EPSG:24380</item>
+		<item>India/Kalianpur 1975/India zone III EPSG:24381</item>
+		<item>Bangladesh-Asia/Kalianpur 1980/India zone IIb EPSG:24382</item>
+		<item>India/Kalianpur 1975/India zone IV EPSG:24383</item>
+	</string-array>
+	
+	<string-array name="middle_east">
+	    <item>Iraq/FD58/Iraq Zone EPSG:3200</item>
+	    <item>Iraq/Nahrwan 1934/Iraq zone EPSG:3394</item>
+	    <item>Iraq-Kuwait/IKBD-92 EPSG:4667</item>
+	    <item>Israel/Israeli TM Grid EPSG:2039</item>
+	    <item>Israel/Israeli TM Grid EPSG:2039</item>
+	    <item>Israel/ EPSG:4141</item>
+	    <item>Israel/Palestine 1923/Israeli CS Grid EPSG:28193</item>
+	    <item>Jordan/ED50 TM EPSG:3066</item>
+	    <item>Kuwait/KOC EPSG:4246</item>
+	    <item>Kuwait-Kuwait City/KUDAMS EPSG:4319</item>
+	    <item>Kuwait/IKBD-92 EPSG:4667</item>
+	    <item>Kuwait/KOC Lambert EPSG:24600</item>
+	    <item>Kuwait/KOC Lambert EPSG:24600</item>
+	    <item>Kuwait/KUDAMS/KTM EPSG:31901</item>
+	    <item>Syria/Deir ez Zor/Syria Lambert EPSG:22770</item>
+		<item>Yemen/Yemen NGN96 UTM zone 38N EPSG:2089</item>
+		<item>Yemen/Yemen NGN96 UTM zone 39N EPSG:2090</item>
+		<item>South Yemen/Gauss Kruger zone 8 EPSG:2395</item>
+		<item>South Yemen/Gauss Kruger zone 9 EPSG:2396</item>
+	</string-array>
+	
+	<string-array name="africa">
+		<item>Angola/Mhast 1951 EPSG:4703</item>
+		<item>Congo/Kasai 1953/Congo TM Zone 22 EPSG:3316</item>
+		<item>Congo/Kasai 1953/Congo TM Zone 24 EPSG:3317</item>
+		<item>Congo/IGC 1962/Congo TM Zone 12 EPSG:3318</item>
+		<item>Congo/IGC 1962/Congo TM Zone 14 EPSG:3319</item>
+		<item>Congo/IGC 1962/Congo TM Zone 16 EPSG:3320</item>
+		<item>Congo/IGC 1962/Congo TM Zone 18 EPSG:3321</item>
+		<item>Congo/IGC 1962/Congo TM Zone 20 EPSG:3322</item>
+		<item>Congo/IGC 1962/Congo TM Zone 22 EPSG:3323</item>
+		<item>Congo/IGC 1962/Congo TM Zone 24 EPSG:3324</item>
+		<item>Congo/IGC 1962/Congo TM Zone 26 EPSG:3325</item>
+		<item>Congo/IGC 1962/Congo TM Zone 28 EPSG:3326</item>
+		<item>Congo/IGC 1962/Congo TM Zone 30 EPSG:3327</item>
+		<item>Congo/IGCB 1955/Congo TM Zone 12 EPSG:3339</item>
+		<item>Congo/IGCB 1955/Congo TM Zone 14 EPSG:3340</item>
+		<item>Congo/IGCB 1955/Congo TM Zone 16 EPSG:3341</item>
+		<item>Congo/IGCB 1955/UTM zone 33S EPSG:3342</item>
+		<item>Egypt/Gulf of Suez S-650 TL/Red Belt EPSG:3355</item>
+		<item>Egypt/Egypt 1907/Blue Belt EPSG:22991</item>
+		<item>Egypt/Egypt 1907/Red Belt EPSG:22992</item>
+		<item>Egypt/Egypt 1907/Purple Belt EPSG:22993</item>
+		<item>Egypt/Egypt 1907/Extended Purple Belt EPSG:22994</item>
+		<item>Ethiopia/Adindan/UTM zone 36N EPSG:20136</item>
+		<item>Ghana/Accra/Ghana National Grid EPSG:2136</item>
+		<item>Ghana/Leigon/Ghana Metre Grid EPSG:25000</item>
+		<item>Liberia/Liberia 1964 EPSG:4251</item>
+		<item>Libya/ELD79/Libya zone 5 EPSG:2068</item>
+		<item>Libya/ELD79/Libya zone 6 EPSG:2069</item>
+		<item>Libya/ELD79/Libya zone 7 EPSG:2070</item>
+		<item>Libya/ELD79/Libya zone 8 EPSG:2071</item>
+		<item>Libya/ELD79/Libya zone 9 EPSG:2072</item>
+		<item>Libya/ELD79/Libya zone 10 EPSG:2073</item>
+		<item>Libya/ELD79/Libya zone 11 EPSG:2074</item>
+		<item>Libya/ELD79/Libya zone 12 EPSG:2075</item>
+		<item>Libya/ELD79/Libya zone 13 EPSG:2076</item>
+		<item>Libya/ELD79/UTM zone 32N EPSG:2077</item>
+		<item>Libya/ELD79/UTM zone 33N EPSG:2078</item>
+		<item>Libya/ELD79/UTM zone 34N EPSG:2079</item>
+		<item>Libya/ELD79/UTM zone 35N EPSG:2080</item>
+		<item>Libya/LGD2006/Libya TM EPSG:2080</item>
+		<item>Libya/LGD2006/Libya TM Zone 5 EPSG:3190</item>
+		<item>Libya/LGD2006/Libya TM Zone 6 EPSG:3191</item>
+		<item>Libya/LGD2006/Libya TM Zone 7 EPSG:3192</item>
+		<item>Libya/LGD2006/Libya TM Zone 8 EPSG:3193</item>
+		<item>Libya/LGD2006/Libya TM Zone 9 EPSG:3194</item>
+		<item>Libya/LGD2006/Libya TM Zone 10 EPSG:3195</item>
+		<item>Libya/LGD2006/Libya TM Zone 11 EPSG:3196</item>
+		<item>Libya/LGD2006/Libya TM Zone 12 EPSG:3197</item>
+		<item>Libya/LGD2006/Libya TM Zone 13 EPSG:3198</item>
+		<item>Libya/LGD2006 UTM Zone 32N EPSG:3199</item>
+		<item>Mauritania/Mauritania 1999/UTM zone 28N EPSG:3343</item>
+		<item>Mauritania/Mauritania 1999/UTM zone 29N EPSG:3344</item>
+		<item>Mauritania/Mauritania 1999/UTM zone 30N EPSG:3345</item>
+		<item>Namibia/Schwarzeck EPSG:4293</item>
+		<item>Namibia/Schwarzeck/UTM zone 33S EPSG:29333</item>
+		<item>Nigeria/Minna/Nigeria West Belt EPSG:26391</item>
+		<item>Nigeria/Minna/Nigeria Central Belt EPSG:26392</item>
+		<item>Nigeria/Minna/Nigeria East Belt EPSG:26393</item>
+		<item>Sierra Leone/Sierra Leone 1924/New Colony Grid EPSG:2159</item>
+		<item>Sierra Leone/Sierra Leone 1924/New War Office Grid EPSG:2160</item>
+		<item>Sierra Leone/Sierra Leone 1968/UTM zone 28N EPSG:2160</item>
+		<item>Sierra Leone/Sierra Leone 1968/UTM zone 29N EPSG:2161</item>
+		<item>Sudan/Adindan/UTM Zone 35N EPSG:20135</item>
+		<item>Sudan/Adindan/UTM zone 36N EPSG:20136</item>
+		<item>Tunisia/Carthage/UTM Zone 32N EPSG:22332</item>
+		<item>Tunisia/Carthage/Nord Tunisie EPSG:22391</item>
+		<item>Tunisia/Carthage/Sud Tunisie EPSG:22392</item>
+	</string-array>
+	
+	<string-array name="caribbean_islands">
+		<item>Anguilla 1957/British West Indies Grid EPSG:2000</item>
+		<item>Antigua 1943/British West Indies Grid EPSG:2001</item>
+		<item>Barbados/Barbados 1938 EPSG:4212</item>
+		<item>Barbados/Barbados 1938/British West Indies Grid EPSG:21291</item>
+		<item>Barbados/Barbados 1938/Barbados National Grid EPSG:21292</item>
+		<item>Bermuda/Bermuda 1957 EPSG:4216</item>
+		<item>Bermuda/Bermuda 1957 EPSG:4216</item>
+		<item>Cayman/Grand Cayman 1959/UTM Zone 17N EPSG:3356</item>
+		<item>Cayman/Little Cayman 1961/UTM Zone 17N EPSG:3357</item>
+		<item>Cayman/Little Cayman 1961/UTM Zone 17N EPSG:3357</item>
+		<item>Cuba/NAD27/Cuba Norte EPSG:3795</item>
+		<item>Cuba/NAD27/Cuba Sur EPSG:3796</item>
+		<item>Dominica 1945/British West Indies Grid EPSG:2002</item>
+		<item>Guadeloupe-Grande-Terre/UTM 1948/Zone 20N EPSG:2970</item>
+		<item>Guadeloupe-St Martin and St Barthelemy/Zone 20N EPSG:2969</item>
+		<item>Grenada 1953/British West Indies Grid EPSG:2003</item>
+		<item>Jamaica/Jamaica 1875 EPSG:4241</item>
+		<item>Martinique 1938/UTM Zone 20N EPSG:2973</item>
+		<item>Montserrat 1958/British West Indies Grid EPSG:2004</item>
+		<item>Puerto Rico and Virgin Is/NAD83(HARN) EPSG:2866</item>
+		<item>Puerto Rico/UTM zone 20N EPSG:3920</item>
+		<item>Puerto Rico and St. Croix EPSG:3992</item>
+		<item>St. Kitts 1955/British West Indies Grid EPSG:2005</item>
+		<item>St. Lucia 1955/British West Indies Grid EPSG:2006</item>
+		<item>St. Vincent 45/British West Indies Grid EPSG:2007</item>
+		<item>Trinidad/Trinidad 1903/Trinidad Grid EPSG:30200</item>
+	</string-array>
+	
+	<string-array name="south_america">
+	    <item>South America UTM 18N(SAD96) EPSG:29168</item>
+	    <item>South America UTM 19N(SAD96) EPSG:29169</item>
+	    <item>South America UTM 20N(SAD96) EPSG:29170</item>
+	    <item>South America UTM 21N(SAD96) EPSG:29171</item>
+	    <item>South America UTM 22N(SAD96) EPSG:29172</item>
+	    <item>South America UTM 17S(SAD96) EPSG:29187</item>
+	    <item>South America UTM 18S(SAD96) EPSG:29188</item>
+	    <item>South America UTM 19S(SAD96) EPSG:29189</item>
+	    <item>South America UTM 20S(SAD96) EPSG:29190</item>
+	    <item>South America UTM 21S(SAD96) EPSG:29191</item>
+	    <item>South America UTM 22S(SAD96) EPSG:29192</item>
+	    <item>South America UTM 23S(SAD96) EPSG:29193</item>
+	    <item>South America UTM 24S(SAD96) EPSG:29194</item>
+	    <item>South America UTM 25S(SAD96) EPSG:29195</item>
+		<item>Argentina/Chos Malal 1914/Argentina Zone 2 EPSG:2081</item>
+		<item>Argentina/Pampa del Castillo / Argentina Zone 2 EPSG:2082</item>
+		<item>Argentina/Hito XVIII 1963/Argentina Zone 2 EPSG:2083</item>
+		<item>Argentina/Hito XVIII 1963/UTM Zone 19S EPSG:2084</item>
+		<item>Argentina/POSGAR 98/Argentina 1 EPSG:22171</item>
+		<item>Argentina/POSGAR 98/Argentina 2 EPSG:22172</item>
+		<item>Argentina/POSGAR 98/Argentina 3 EPSG:22173</item>
+		<item>Argentina/POSGAR 98/Argentina 4 EPSG:22174</item>
+		<item>Argentina/POSGAR 98/Argentina 5 EPSG:22175</item>
+		<item>Argentina/POSGAR 98/Argentina 6 EPSG:22176</item>
+		<item>Argentina/POSGAR 98/Argentina 7 EPSG:22177</item>
+		<item>Argentina/POSGAR 94/Argentina 1 EPSG:22181</item>
+		<item>Argentina/POSGAR 94/Argentina 2 EPSG:22182</item>
+		<item>Argentina/POSGAR 94/Argentina 3 EPSG:22183</item>
+		<item>Argentina/POSGAR 94/Argentina 4 EPSG:22184</item>
+		<item>Argentina/POSGAR 94/Argentina 5 EPSG:22185</item>
+		<item>Argentina/POSGAR 94/Argentina 6 EPSG:22186</item>
+		<item>Argentina/POSGAR 94/Argentina 7 EPSG:22187</item>
+		<item>Argentina/Campo Inchauspe/Argentina 1 EPSG:22191</item>
+		<item>Argentina/Campo Inchauspe/Argentina 2 EPSG:22192</item>
+		<item>Argentina/Campo Inchauspe/Argentina 3 EPSG:22193</item>
+		<item>Argentina/Campo Inchauspe/Argentina 4 EPSG:22194</item>
+		<item>Argentina/Campo Inchauspe/Argentina 5 EPSG:22195</item>
+		<item>Argentina/Campo Inchauspe/Argentina 6 EPSG:22196</item>
+		<item>Argentina/Campo Inchauspe/Argentina 7 EPSG:22197</item>
+		<item>Brazil/SAD69/Brazil Polyconic EPSG:29101</item>
+		<item>Peru/PSAD56/Peru West Zone EPSG:24891</item>
+		<item>Peru/PSAD56/Peru Central Zone EPSG:24892</item>
+		<item>Peru/PSAD56/Peru East Zone EPSG:24893</item>
+		<item>French Guiana/CSG67/UTM Zone 22N EPSG:2971</item>
+		<item>French Guiana/RGFG95/UTM Zone 22 EPSG:2972</item>
+	</string-array>
+	<string-array name="north_america">
+		<item>Canada/NAD83/MTM Zone 1 EPSG:32181</item>
+		<item>Canada/NAD83/MTM Zone 2 EPSG:32182</item>
+		<item>Canada/NAD83/MTM Zone 3 EPSG:32183</item>
+		<item>Canada/NAD83/MTM Zone 4 EPSG:32184</item>
+		<item>Canada/NAD83/MTM Zone 5 EPSG:32185</item>
+		<item>Canada/NAD83/MTM Zone 6 EPSG:32186</item>
+		<item>Canada/NAD83/MTM Zone 7 EPSG:32187</item>
+		<item>Canada/NAD83/MTM Zone 8 EPSG:32188</item>
+		<item>Canada/NAD83/MTM Zone 9 EPSG:32189</item>
+		<item>Canada/NAD83/MTM Zone 10 EPSG:32190</item>
+		<item>Canada/NAD83/MTM Zone 11 EPSG:32191</item>
+		<item>Canada/NAD83/MTM Zone 12 EPSG:32192</item>
+		<item>Canada/NAD83/MTM Zone 13 EPSG:32193</item>
+		<item>Canada/NAD83/MTM Zone 14 EPSG:32194</item>
+		<item>Canada/NAD83/MTM Zone 15 EPSG:32195</item>
+		<item>Canada/NAD83/MTM Zone 16 EPSG:32196</item>
+		<item>Canada/NAD83/MTM Zone 17 EPSG:32197</item>
+		<item>Canada/NAD83(CSRS)/SCoPQ Zone 2 EPSG:2944</item>
+		<item>Canada Quebec/NAD83/Lambert EPSG:32198</item>
+		<item>Canada Alberta/NAD83/10-TM EPSG:3400</item>
+		<item>Canada Ontario/NAD83/MNR Lambert EPSG:3161</item>
+		<item>Canada Ontario/NAD83(CSRS)/MNR Lambert EPSG:3162</item>
+		<item>Canada New Brunswick(ATS77) EPSG:2953</item>
+		<item>Canada Prince Edward Isl.(ATS77) EPSG:2954</item>
+		<item>Canada Nova Scotia/ATS77/MTM Zone 4 EPSG:2294</item>
+		<item>Canada Nova Scotia/ATS77/MTM Zone 5 EPSG:2295</item>
+		<item>Greennland/GR96/UTM Zone 18N EPSG:3178</item>
+		<item>Greennland/GR96/UTM Zone 19N EPSG:3179</item>
+		<item>Greennland/GR96/UTM Zone 20N EPSG:3180</item>
+		<item>Greennland/GR96/UTM Zone 21N EPSG:3181</item>
+		<item>Greennland/GR96/UTM Zone 22N EPSG:3182</item>
+		<item>Greennland/GR96/UTM Zone 23N EPSG:3183</item>
+		<item>Greennland/GR96/UTM Zone 24N EPSG:3184</item>
+		<item>Greennland/GR96/UTM Zone 25N EPSG:3185</item>
+		<item>Greennland/GR96/UTM Zone 26N EPSG:3186</item>
+		<item>Greennland/GR96/UTM Zone 27N EPSG:3187</item>
+		<item>Greennland/GR96/UTM Zone 28N EPSG:3188</item>
+		<item>Greennland/GR96/UTM Zone 29N EPSG:3189</item>
+		<item>USA Kentucky Single Zone(NAD83) EPSG:3088</item>
+		<item>USA Texas State Mapping System(NAD83) EPSG:3081</item>
+		<item>USA Texas Centric Lambert Conformal(HARN) EPSG:3084</item>
+	</string-array>
+	
+	<string-array name="china">
+		<item>Hong Kong 1980 Grid EPSG:2326</item>
+		<item>GK Z 13 EPSG:2327</item>
+		<item>GK Z 14 EPSG:2328</item>
+		<item>GK Z 15 EPSG:2329</item>
+		<item>GK Z 16 EPSG:2330</item>
+		<item>GK Z 17 EPSG:2331</item>
+		<item>GK Z 18 EPSG:2332</item>
+		<item>GK Z 19 EPSG:2333</item>
+		<item>GK Z 20 EPSG:2334</item>
+		<item>GK Z 21 EPSG:2335</item>
+		<item>GK Z 22 EPSG:2336</item>
+		<item>GK Z 23 EPSG:2337</item>
+		<item>GK CM 75E EPSG:2338</item>
+		<item>GK CM 81E EPSG:2339</item>
+		<item>GK CM 87E EPSG:2340</item>
+		<item>GK CM 93E EPSG:2341</item>
+		<item>GK CM 99E EPSG:2342</item>
+		<item>GK CM 105E EPSG:2343</item>
+		<item>GK CM 111E EPSG:2344</item>
+		<item>GK CM 117E EPSG:2345</item>
+		<item>GK CM 123E EPSG:2346</item>
+		<item>GK CM 129E EPSG:2347</item>
+		<item>GK CM 135E EPSG:2348</item>
+		<item>GK 3-Deg Z-25 EPSG:2349</item>
+		<item>GK 3-Deg Z-26 EPSG:2350</item>
+		<item>GK 3-Deg Z-27 EPSG:2351</item>
+		<item>GK 3-Deg Z-28 EPSG:2352</item>
+		<item>GK 3-Deg Z-29 EPSG:2353</item>
+		<item>GK 3-Deg Z-30 EPSG:2354</item>
+		<item>GK 3-Deg Z-31 EPSG:2355</item>
+		<item>GK 3-Deg Z-32 EPSG:2356</item>
+		<item>GK 3-Deg Z-33 EPSG:2357</item>
+		<item>GK 3-Deg Z-34 EPSG:2358</item>
+		<item>GK 3-Deg Z-35 EPSG:2359</item>
+		<item>GK 3-Deg Z-36 EPSG:2360</item>
+		<item>GK 3-Deg Z-37 EPSG:2361</item>
+		<item>GK 3-Deg Z-38 EPSG:2362</item>
+		<item>GK 3-Deg Z-39 EPSG:2363</item>
+		<item>GK 3-Deg Z-40 EPSG:2364</item>
+		<item>GK 3-Deg Z-41 EPSG:2365</item>
+		<item>GK 3-Deg Z-42 EPSG:2366</item>
+		<item>GK 3-Deg Z-43 EPSG:2367</item>
+		<item>GK 3-Deg Z-44 EPSG:2368</item>
+		<item>GK 3-Deg Z-45 EPSG:2369</item>
+		<item>GK 3-Deg CM 75E EPSG:2370</item>
+		<item>GK 3-Deg CM 78E EPSG:2371</item>
+		<item>GK 3-Deg CM 81E EPSG:2372</item>
+		<item>GK 3-Deg CM 84E EPSG:2373</item>
+		<item>GK 3-Deg CM 87E EPSG:2374</item>
+		<item>GK 3-Deg CM 90E EPSG:2375</item>
+		<item>GK 3-Deg CM 93E EPSG:2376</item>
+		<item>GK 3-Deg CM 96E EPSG:2377</item>
+		<item>GK 3-Deg CM 99E EPSG:2378</item>
+		<item>GK 3-Deg CM 102E EPSG:2379</item>
+		<item>GK 3-Deg CM 105E EPSG:2380</item>
+		<item>GK 3-Deg CM 108E EPSG:2381</item>
+		<item>GK 3-Deg CM 111E EPSG:2382</item>
+		<item>GK 3-Deg CM 114E EPSG:2383</item>
+		<item>GK 3-Deg CM 117E EPSG:2384</item>
+		<item>GK 3-Deg CM 120E EPSG:2385</item>
+		<item>GK 3-Deg CM 123E EPSG:2386</item>
+		<item>GK 3-Deg CM 126E EPSG:2387</item>
+		<item>GK 3-Deg CM 129E EPSG:2388</item>
+		<item>GK 3-Deg CM 132E EPSG:2389</item>
+		<item>GK 3-Deg CM 135E EPSG:2390</item>
+	</string-array>
+	
+	<string-array name="russia">
+		<item>Pulk95/GK CM 21E EPSG:2463</item>
+		<item>Pulk95/GK CM 27E EPSG:2464</item>
+		<item>Pulk95/GK CM 33E EPSG:2465</item>
+		<item>Pulk95/GK CM 39E EPSG:2466</item>
+		<item>Pulk95/GK CM 45E EPSG:2467</item>
+		<item>Pulk95/GK CM 51E EPSG:2468</item>
+		<item>Pulk95/GK CM 57E EPSG:2469</item>
+		<item>Pulk95/GK CM 63E EPSG:2470</item>
+		<item>Pulk95/GK CM 69E EPSG:2471</item>
+		<item>Pulk95/GK CM 75E EPSG:2472</item>
+		<item>Pulk95/GK CM 81E EPSG:2473</item>
+		<item>Pulk95/GK CM 87E EPSG:2474</item>
+		<item>Pulk95/GK CM 93E EPSG:2475</item>
+		<item>Pulk95/GK CM 99E EPSG:2476</item>
+		<item>Pulk95/GK CM 105E EPSG:2477</item>
+		<item>Pulk95/GK CM 111E EPSG:2478</item>
+		<item>Pulk95/GK CM 117E EPSG:2479</item>
+		<item>Pulk95/GK CM 123E EPSG:2480</item>
+		<item>Pulk95/GK CM 129E EPSG:2481</item>
+		<item>Pulk95/GK CM 135E EPSG:2482</item>
+		<item>Pulk95/GK CM 141E EPSG:2483</item>
+		<item>Pulk95/GK CM 147E EPSG:2484</item>
+		<item>Pulk95/GK CM 153E EPSG:2485</item>
+		<item>Pulk95/GK CM 159E EPSG:2486</item>
+		<item>Pulk95/GK CM 165E EPSG:2487</item>
+		<item>Pulk95/GK CM 171E EPSG:2488</item>
+		<item>Pulk95/GK CM 177E EPSG:2489</item>
+		<item>Pulk95/GK CM 177W EPSG:2490</item>
+		<item>Pulk95/GK CM 171W EPSG:2491</item>
+	</string-array>
+
+</resources>

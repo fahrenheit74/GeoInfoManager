@@ -1,0 +1,11 @@
+GeoInfoManager Private Key 
+
+version 2.01 April 23, 2011
+/home/madair/elektronik-Sheep-geoinfomanager-key.keystore
+
+Password: FahrenHeit$74
+Alias: gim_app_key
+
+Store Password: WoodChuck$802
+
+

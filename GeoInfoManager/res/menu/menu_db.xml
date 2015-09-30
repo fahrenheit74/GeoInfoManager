@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<item android:id="@+id/menu_store_point"
+		android:title="@string/menu_store_point"
+		android:alphabeticShortcut="@+id/menu_store_point_shortcut"
+		android:icon="@android:drawable/ic_menu_myplaces">
+		</item>
+	<item android:id="@+id/menu_view_pointdb"
+		android:title="@string/menu_view_pointdb"
+		android:alphabeticShortcut="@+id/menu_view_pointdb_shortcut"
+		android:icon="@drawable/database">
+		</item>
+	<item android:id="@+id/menu_view_map"
+		android:title="@string/menu_view_map"
+		android:alphabeticShortcut="@+id/menu_view_map_shortcut"
+		android:icon="@android:drawable/ic_menu_mapmode">
+		</item>
+	<item android:id="@+id/menu_import_gpx"
+		android:title="@string/menu_import_gpx"
+		android:alphabeticShortcut="@+id/menu_import_gpx_shortcut"
+		android:icon="@android:drawable/ic_menu_save">
+		</item>
+	<item android:id="@+id/menu_more"
+		android:title="@string/menu_more"
+		android:alphabeticShortcut="@+id/menu_more_shortcut"
+		android:icon="@drawable/sunrise_48bw"></item>
+	<item android:id="@+id/menu_satinfo"
+		android:title="@string/menu_satinfo"
+		android:alphabeticShortcut="@+id/menu_satinfo_shortcut"
+		android:icon="@drawable/satellite_48bw"></item>
+	<item android:id="@+id/menu_togglegps"
+		android:title="@string/menu_togglegps"
+		android:alphabeticShortcut="@+id/menu_togglegps_shortcut"
+		android:icon="@android:drawable/ic_menu_info_details">
+		</item>
+	<item android:id="@+id/menu_about"
+		android:title="@string/menu_about"
+		android:alphabeticShortcut="@+id/menu_about_shortcut"
+		android:icon="@android:drawable/ic_menu_info_details">
+		</item>
+</menu>
+

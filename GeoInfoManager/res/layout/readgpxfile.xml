@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent"
+    android:background= "@color/whitebgrnd"
+    android:paddingLeft="10dip"
+    android:paddingRight="10dip"
+    >
+  <RelativeLayout 
+	android:gravity="bottom" 
+	android:layout_height="wrap_content" 
+	android:layout_width="fill_parent">
+	<ImageView
+		android:id="@+id/rgpx_gpximage"
+		android:layout_width="160dip"
+		android:layout_height="160dip"
+		android:src="@drawable/gpx"
+		/>
+	<TextView
+		android:id="@+id/rgpx_label"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textColor="@color/darktext"
+		android:layout_toRightOf="@id/rgpx_gpximage"
+		android:layout_alignTop="@id/rgpx_gpximage"
+		android:textStyle="bold"
+		android:textSize="32dip"
+		android:text="GPX File"
+		></TextView>
+	<View
+		android:id="@+id/line_sp"
+		android:layout_below="@id/rgpx_gpximage"
+		android:paddingTop="10dip"
+		android:paddingBottom="10dip"
+   		android:layout_width="fill_parent"
+       	android:layout_height="2dip"
+       	android:background="#FF000000">
+    </View>
+	<ImageButton
+	    android:id="@+id/rgpx_browse"
+		android:layout_width="wrap_content"  
+        android:layout_height="56dip"
+	    android:layout_alignLeft="@id/rgpx_gpximage"
+	    android:layout_below="@id/line_sp"
+	    android:src= "@drawable/browse_3"
+   		/>	
+	<EditText
+	    android:id="@+id/rgpx_fname"
+	    android:layout_height="wrap_content" 
+		android:layout_width="fill_parent"
+	    android:layout_alignLeft="@id/rgpx_browse"
+	    android:layout_below="@id/rgpx_browse"
+	    android:paddingBottom="10dip"
+   		/>	
+	<ImageButton
+    	android:id="@+id/rgpx_button01" 
+    	android:layout_below="@id/rgpx_fname"
+    	android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content" 
+        android:layout_height="56dip"
+        android:padding="10dip"
+        android:src="@drawable/openbtn"
+    	/>
+    <ImageButton 
+    	android:id="@+id/rgpx_button02" 
+    	android:layout_below="@id/rgpx_button01"
+        android:layout_width="wrap_content"  
+        android:layout_height="56dip"
+        android:padding="10dip"
+        android:src="@drawable/savebtn"
+    	/>
+	<ImageButton
+	    android:id="@+id/rgpx_sym_btn"
+	    android:layout_width="56dip"
+	    android:layout_height="56dip"
+	    android:layout_toRightOf="@id/rgpx_button01"
+	    android:layout_alignBottom="@id/rgpx_button01"
+	    android:padding="10dip"
+	    android:src= "@drawable/redflag2"
+   		/>	
+   	
+	</RelativeLayout>
+</LinearLayout>

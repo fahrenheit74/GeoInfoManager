@@ -1,0 +1,130 @@
+# Hong Kong 1980 Grid System
+<ch2326> +proj=tmerc +lat_0=22.31213333333334 +lon_0=114.1785555555556 +k=1.000000 +x_0=836694.05 +y_0=819069.8 +ellps=intl +towgs84=-162.619,-276.959,-161.764,0.067753,-2.24365,-1.15883,-1.09425 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 13
+<ch2327> +proj=tmerc +lat_0=0 +lon_0=75 +k=1.000000 +x_0=13500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 14
+<ch2328> +proj=tmerc +lat_0=0 +lon_0=81 +k=1.000000 +x_0=14500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 15
+<ch2329> +proj=tmerc +lat_0=0 +lon_0=87 +k=1.000000 +x_0=15500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 16
+<ch2330> +proj=tmerc +lat_0=0 +lon_0=93 +k=1.000000 +x_0=16500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 17
+<ch2331> +proj=tmerc +lat_0=0 +lon_0=99 +k=1.000000 +x_0=17500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 18
+<ch2332> +proj=tmerc +lat_0=0 +lon_0=105 +k=1.000000 +x_0=18500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 19
+<ch2333> +proj=tmerc +lat_0=0 +lon_0=111 +k=1.000000 +x_0=19500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 20
+<ch2334> +proj=tmerc +lat_0=0 +lon_0=117 +k=1.000000 +x_0=20500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 21
+<ch2335> +proj=tmerc +lat_0=0 +lon_0=123 +k=1.000000 +x_0=21500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 22
+<ch2336> +proj=tmerc +lat_0=0 +lon_0=129 +k=1.000000 +x_0=22500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger zone 23
+<ch2337> +proj=tmerc +lat_0=0 +lon_0=135 +k=1.000000 +x_0=23500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 75E
+<ch2338> +proj=tmerc +lat_0=0 +lon_0=75 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 81E
+<ch2339> +proj=tmerc +lat_0=0 +lon_0=81 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 87E
+<ch2340> +proj=tmerc +lat_0=0 +lon_0=87 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 93E
+<ch2341> +proj=tmerc +lat_0=0 +lon_0=93 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 99E
+<ch2342> +proj=tmerc +lat_0=0 +lon_0=99 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 105E
+<ch2343> +proj=tmerc +lat_0=0 +lon_0=105 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 111E
+<ch2344> +proj=tmerc +lat_0=0 +lon_0=111 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 117E
+<ch2345> +proj=tmerc +lat_0=0 +lon_0=117 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 123E
+<ch2346> +proj=tmerc +lat_0=0 +lon_0=123 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 129E
+<ch2347> +proj=tmerc +lat_0=0 +lon_0=129 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / Gauss-Kruger CM 135E
+<ch2348> +proj=tmerc +lat_0=0 +lon_0=135 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 25
+<ch2349> +proj=tmerc +lat_0=0 +lon_0=75 +k=1.000000 +x_0=25500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 26
+<ch2350> +proj=tmerc +lat_0=0 +lon_0=78 +k=1.000000 +x_0=26500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 27
+<ch2351> +proj=tmerc +lat_0=0 +lon_0=81 +k=1.000000 +x_0=27500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 28
+<ch2352> +proj=tmerc +lat_0=0 +lon_0=84 +k=1.000000 +x_0=28500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 29
+<ch2353> +proj=tmerc +lat_0=0 +lon_0=87 +k=1.000000 +x_0=29500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 30
+<ch2354> +proj=tmerc +lat_0=0 +lon_0=90 +k=1.000000 +x_0=30500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 31
+<ch2355> +proj=tmerc +lat_0=0 +lon_0=93 +k=1.000000 +x_0=31500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 32
+<ch2356> +proj=tmerc +lat_0=0 +lon_0=96 +k=1.000000 +x_0=32500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 33
+<ch2357> +proj=tmerc +lat_0=0 +lon_0=99 +k=1.000000 +x_0=33500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 34
+<ch2358> +proj=tmerc +lat_0=0 +lon_0=102 +k=1.000000 +x_0=34500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 35
+<ch2359> +proj=tmerc +lat_0=0 +lon_0=105 +k=1.000000 +x_0=35500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 36
+<ch2360> +proj=tmerc +lat_0=0 +lon_0=108 +k=1.000000 +x_0=36500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 37
+<ch2361> +proj=tmerc +lat_0=0 +lon_0=111 +k=1.000000 +x_0=37500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 38
+<ch2362> +proj=tmerc +lat_0=0 +lon_0=114 +k=1.000000 +x_0=38500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 39
+<ch2363> +proj=tmerc +lat_0=0 +lon_0=117 +k=1.000000 +x_0=39500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 40
+<ch2364> +proj=tmerc +lat_0=0 +lon_0=120 +k=1.000000 +x_0=40500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 41
+<ch2365> +proj=tmerc +lat_0=0 +lon_0=123 +k=1.000000 +x_0=41500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 42
+<ch2366> +proj=tmerc +lat_0=0 +lon_0=126 +k=1.000000 +x_0=42500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 43
+<ch2367> +proj=tmerc +lat_0=0 +lon_0=129 +k=1.000000 +x_0=43500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 44
+<ch2368> +proj=tmerc +lat_0=0 +lon_0=132 +k=1.000000 +x_0=44500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger zone 45
+<ch2369> +proj=tmerc +lat_0=0 +lon_0=135 +k=1.000000 +x_0=45500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 75E
+<ch2370> +proj=tmerc +lat_0=0 +lon_0=75 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 78E
+<ch2371> +proj=tmerc +lat_0=0 +lon_0=78 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 81E
+<ch2372> +proj=tmerc +lat_0=0 +lon_0=81 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 84E
+<ch2373> +proj=tmerc +lat_0=0 +lon_0=84 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 87E
+<ch2374> +proj=tmerc +lat_0=0 +lon_0=87 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 90E
+<ch2375> +proj=tmerc +lat_0=0 +lon_0=90 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 93E
+<ch2376> +proj=tmerc +lat_0=0 +lon_0=93 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 96E
+<ch2377> +proj=tmerc +lat_0=0 +lon_0=96 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 99E
+<ch2378> +proj=tmerc +lat_0=0 +lon_0=99 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 102E
+<ch2379> +proj=tmerc +lat_0=0 +lon_0=102 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 105E
+<ch2380> +proj=tmerc +lat_0=0 +lon_0=105 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 108E
+<ch2381> +proj=tmerc +lat_0=0 +lon_0=108 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 111E
+<ch2382> +proj=tmerc +lat_0=0 +lon_0=111 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 114E
+<ch2383> +proj=tmerc +lat_0=0 +lon_0=114 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 117E
+<ch2384> +proj=tmerc +lat_0=0 +lon_0=117 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 120E
+<ch2385> +proj=tmerc +lat_0=0 +lon_0=120 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 123E
+<ch2386> +proj=tmerc +lat_0=0 +lon_0=123 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 126E
+<ch2387> +proj=tmerc +lat_0=0 +lon_0=126 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 129E
+<ch2388> +proj=tmerc +lat_0=0 +lon_0=129 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 132E
+<ch2389> +proj=tmerc +lat_0=0 +lon_0=132 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>
+# Xian 1980 / 3-degree Gauss-Kruger CM 135E
+<ch2390> +proj=tmerc +lat_0=0 +lon_0=135 +k=1.000000 +x_0=500000 +y_0=0 +a=6378140 +b=6356755.288157528 +units=m +no_defs  <>

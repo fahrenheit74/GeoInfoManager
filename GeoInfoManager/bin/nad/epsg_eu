@@ -1,0 +1,42 @@
+# Albanian 1987 / Gauss-Kruger zone 4
+<eu2462> +proj=tmerc +lat_0=0 +lon_0=21 +k=1.000000 +x_0=4500000 +y_0=0 +ellps=krass +units=m +no_defs  <>
+#ETRS89 / Austria Lambert
+<eu3416> +proj=lcc +lat_1=49 +lat_2=46 +lat_0=47.5 +lon_0=13.33333333333333 +x_0=400000 +y_0=400000 +ellps=GRS80 +units=m +no_defs <>
+#ETRS89 / Belgian Lambert 2005
+<eu3447> +proj=lcc +lat_1=49.83333333333334 +lat_2=51.16666666666666 +lat_0=50.797815 +lon_0=4.359215833333333 +x_0=150328 +y_0=166262 +ellps=GRS80 +units=m +no_defs <>
+# LKS94 / Lithuania TM
+<eu3346> +proj=tmerc +lat_0=0 +lon_0=24 +k=0.999800 +x_0=500000 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+#ETRS89 / ETRS-GK31FIN
+<eu3138> +proj=tmerc +lat_0=0 +lon_0=31 +k=1 +x_0=500000 +y_0=0 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-LCC
+<eu3034> +proj=lcc +lat_1=35 +lat_2=65 +lat_0=52 +lon_0=10 +x_0=4000000 +y_0=2800000 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-LAEA
+<eu3035> +proj=laea +lat_0=52 +lon_0=10 +x_0=4321000 +y_0=3210000 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM26
+<eu3038> +proj=utm +zone=26 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM27
+<eu3039> +proj=utm +zone=27 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM28
+<eu3040> +proj=utm +zone=28 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM29
+<eu3041> +proj=utm +zone=29 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM30
+<eu3042> +proj=utm +zone=30 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM31
+<eu3043> +proj=utm +zone=31 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM32
+<eu3044> +proj=utm +zone=32 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM33
+<eu3045> +proj=utm +zone=33 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM34
+<eu3046> +proj=utm +zone=34 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM35
+<eu3047> +proj=utm +zone=35 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM36
+<eu3048> +proj=utm +zone=36 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM37
+<eu3049> +proj=utm +zone=37 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM38
+<eu3050> +proj=utm +zone=38 +ellps=GRS80 +units=m +no_defs  <>
+# ETRS89 / ETRS-TM39
+<eu3051> +proj=utm +zone=39 +ellps=GRS80 +units=m +no_defs  <>

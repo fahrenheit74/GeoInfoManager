@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+   xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+    	android:key="coordsystem"
+    	android:title="@string/coordsys_label"
+    	android:summary="@string/coordsys_summary"
+    	android:defaultValue="0"
+    	></EditTextPreference>
+    <EditTextPreference
+    	android:key="coordsystem2"
+    	android:title="@string/coordsys_label"
+    	android:summary="@string/coordsys_summary"
+    	android:defaultValue="0"
+    	></EditTextPreference>
+</PreferenceScreen>
