@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:gravity="center_horizontal">
+
+	<com.google.android.maps.MapView
+		android:id="@+id/stakeout_view" 
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" 
+		android:enabled="true"		
+		android:clickable="true" 
+		android:apiKey="05T0VjpGMGz_GRyqp0Ju8UWzv3RfO832BvaqVMA"/>	
+</RelativeLayout> 

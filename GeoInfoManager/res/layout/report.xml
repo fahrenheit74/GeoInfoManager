@@ -1,0 +1,15 @@
+<ScrollView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background= "@color/whitebgrnd"
+	android:padding="10dip"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	<TextView  
+	    android:id="@+id/rpt_output"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="wrap_content" 
+	    android:textColor="@color/maintext"
+	    />
+</ScrollView>

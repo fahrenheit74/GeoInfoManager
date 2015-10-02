@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20dip"
+    android:stretchColumns="1,2">
+    <TableRow>
+    	<ImageView
+			android:id="@+id/ptinfo_symbol"
+			android:layout_width="60dip"
+			android:layout_height="60dip"
+			android:layout_gravity="top"
+			android:src="@drawable/redflag2">
+		</ImageView>
+		<RelativeLayout 
+			android:layout_width="fill_parent" 
+			android:layout_height="fill_parent"
+			>
+		    <TextView android:id="@+id/point_name" 
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content" 
+				style="@style/view_text" 
+				android:text=""/>
+			<TextView android:id="@+id/point_date"
+				android:layout_width="wrap_content" 
+				android:layout_height="wrap_content"
+				android:layout_below="@id/point_name" 
+				style="@style/view_text"
+				android:text="Date: " />
+		</RelativeLayout>
+    </TableRow>
+	<View
+   		android:layout_width="fill_parent"
+       	android:layout_height="2dip"
+       	android:background="#FF000000">
+    </View>
+    <TableRow>
+	<TextView
+			android:id="@+id/latlabel"
+			style="@style/view_text"
+	    	android:paddingRight="10sp"
+	    	android:text="@string/longitude_label"/>
+	    <TextView android:id="@+id/point_lat"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:gravity="left" android:layout_marginBottom="3px"
+			style="@style/view_text"
+			android:text="0.0" />
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:id="@+id/lnglabel"
+			style="@style/view_text"
+	    	android:paddingRight="10sp"
+	    	android:text="@string/longitude_label"/>
+		<TextView android:id="@+id/point_lng"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			android:gravity="left" android:layout_marginBottom="3px" 
+			style="@style/view_text"
+			android:text="0.0" />
+	</TableRow>
+	<TableRow>
+		<TextView 
+			android:id="@+id/ptinfo_addstreet_lab"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="Street: " />
+		<TextView 
+			android:id="@+id/ptinfo_addstreet"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="" />
+	</TableRow>
+	<TableRow>
+		<TextView 
+			android:id="@+id/ptinfo_addcity_lab"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="City: " />
+		<TextView 
+			android:id="@+id/ptinfo_addcity"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="" />
+	</TableRow>
+	<TableRow>
+		<TextView 
+			android:id="@+id/ptinfo_addstate_lab"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="State/Prov: " />
+		<TextView 
+			android:id="@+id/ptinfo_addstate"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:layout_span="2"
+			android:text="" />
+	</TableRow>
+	<TableRow>
+		<TextView 
+			android:id="@+id/ptinfo_addpostalcode_lab"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="Postal Code: " />
+		<TextView 
+			android:id="@+id/ptinfo_addpostalcode"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="" />
+	</TableRow>
+	<TableRow>
+		<TextView 
+			android:id="@+id/ptinfo_addcountry_lab"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="Country: " />
+		<TextView 
+			android:id="@+id/ptinfo_addcountry"
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content"
+			style="@style/view_text"
+			android:text="" />
+	</TableRow>
+		<ImageView
+			android:id="@+id/ptinfo_image"
+			android:layout_span="3"
+			android:layout_width="128dip"
+			android:layout_height="128dip"
+			android:layout_gravity="top"
+			android:src="@drawable/photo_blank">
+		</ImageView>
+	<TableRow>
+		
+	</TableRow>
+</TableLayout>
+ 
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello_sun">Hello Sun</string>
+	<string name="suncalc_label">Sun Position Calculator</string>
+	<string name="symbolgrid_label">Symbol Selection</string>
+	<string name="current_symbol_text">Current Symbol</string>
+    <string name="app_name">GeoInfoManager</string>
+    <string name="coordinatesys_label">Coordinate System</string>
+    <string name="coordtype_prompt">Select State Plane Zone</string>
+    <string name="coordsys_prompt">Select Coordinate System</string>
+    <string name="latitude_label">Latitude:</string>
+    <string name="longitude_label">Longitude:</string>
+    <string name="report_title">Report</string>
+    <string name="x_label">X-Easting:</string>
+    <string name="y_label">Y-Northing:</string>
+    <string name="x_coord_label">X-Coordinate</string>
+    <string name="y_coord_label">Y-Coordinate</string>
+    <string name="gpsacc">Accuracy</string>
+    <string name= "gpsstatus">Sats</string>
+    <string name= "locprovider">Provider</string>
+    <string name="menu_background_color">Background</string>
+	<string name="menu_background_shortcut">b</string>
+	<string name="menu_about">About GeoCoord</string>
+	<string name="menu_store_point">Store Point</string>
+	<string name="menu_store_point_shortcut">p</string>
+	<string name="menu_about_shortcut">a</string>
+	<string name="coordsys_label">Coordinate Systems</string>
+	<string name="coordsys_summary">Proj4 Description</string>
+	<string name="settings_title">Preferences</string>
+	<string name="about_title">About GeoCoord</string>
+	<string name="storepoint_title">Store Points</string>
+	<string name="company_title">Elektronik Sheep Production</string>
+	<string name="about_text_title">GeoInfoManager V2.5.1</string>
+	<string name="copyright">Copyright 2011</string>
+	<string name="pointstore_label">Store Point</string>
+	<string name="nav_currentposition_label">Current Position</string>
+	<string name="viewpointdb_label">View Point Database</string>
+	<string name="nav_pointname_label">Point Name</string>
+	<string name="gps_tapemeasure_label">GPS Tape Measure</string>
+	<string name="menu_view_pointdb">View Point DB</string>
+	<string name="menu_view_pointdb_shortcut">d</string>
+	<string name="menu_view_map">View Map</string>
+	<string name="menu_view_map_shortcut">m</string>
+	<string name="menu_satinfo">Satellite Info</string>
+	<string name="menu_satinfo_shortcut">s</string>
+	<string name="menu_togglegps">Toggle GPS</string>
+	<string name="menu_togglegps_shortcut">g</string>
+	<string name="menu_more">Sun/Moon</string>
+	<string name="menu_more_shortcut">o</string>
+	<string name="menu_import_gpx">Import GPX</string>
+	<string name="menu_import_gpx_shortcut">g</string>
+	<string name="menu_program_exit">Exit</string>
+	<string name="menu_program_exit_shortcut">x</string>
+	<string name="menu_sort_options">Sort Options</string>
+	<string name="store_point_name_label">Point Name</string>
+	<string name="menu_sort_options_shortcut">o</string>
+	<string name="store_symbol_label">Symbol</string>
+	<string name="storepointdb">Store Point</string>
+	<string name="getgeocodedb">Get Address</string>
+	<string name="navigate_label">Navigate To Point</string>
+	<string name="satview_label">Satellite View</string>
+	<string name="readgpxfile_label">Read GPX File</string>
+	<string name="sort_options_label">Sort Options</string>
+	<string name="addresseditor_label">Address Editor</string>
+	<string name="noteeditor_label">Note Editor</string>
+	<string name="pointeditor_label">Point Editor</string>
+	<string name="database_options_label">Database Options</string>
+	<string name="filebrowser_label">File Browser</string>
+	<string name="up_one_level">..</string>
+    <string name="current_dir">.</string> 
+	<string name="about_text_description">\n<b>GeoInfoManger(GIM)</b> is a geographic information management tool for Android phones with GPS. GIM will store location information with photos, address and notes. The program allows users to navigate to stored locations and share location information and photos with friends, family or work associates. A GPS tape-measure tool is also provided to measure distance and area. Coordinate conversions are provided for over 60 countries.
+	\nNavigate to stored locations using the link to Google Navigate. Google Navigate provides turn by turn voice navigation with a map display. Revisit stored locations with Google Street View which allows you to explore street-level views in 360 degrees. Navigation Dashboard gives you bearing, heading, current speed, velocity made good (VMG) and estimated time of arrival.
+	\nShare information with friends, family or co-workers using Email or SMS. The photo, address and note is added to the email with a google map link so your contact can easily find the location.
+	\nThe GPS Tape-measure feature allows a user to measure the distance or calculate an area with the GPS. Distances are annotated to lines drawn on the map or satellite views. Distances and areas are reported in meter or feet units. Area is shown in Sq Ft and Acres or Sq M and Hectares.
+	\nGPX (GPS exchange) format is used to save and exchange GPS information. The GPX format is supported by most GPS manufactures. GPX files are available from many sources and can be imported to GIM. 
+	\nGIM provides a coordinate conversion utility and provides grid coordinates throughout the program. Over 60 countries are now supported with additional countries being added in future versions. The Coordinate Conversion Dashboard has easy user interface for coordinate system selection and shows both grid and geographic coordinates. The program will suggest a projection system when a region is selected.</string>
+	<string name="about_text_supported_coords">\n\n<b><u>Supported Coordinate Systems</u></b>\
+	\n\tPlease see GeoInfoManager Web page. 
+	\n\tThis version contains coordinate conversions for 60 or more countries. </string>
+	<string name="hints_text">\n<b>Helpful Hints</b>
+	\nEvery effort has been made to make GIM as intuitive as possible and to follow general guidelines developed for the Android platform. I am including these hints to give you a quick start and to provide you with a basic understanding of how the program operates.
+	\n\n<u>Setting up Coordinate Systems</u>
+	\nCoordinate Sytems are not required for using all features of GIM. The database storage of points will not be affected by the coordinate system and changes. Results for coordinate grids will always be shown in the current system and units. 
+	\nIf starting GIM for first time, or after clearing application data set the Units and Coordinate  System in Coordinate System Dashboard. Automatic zone selection will be triggered when a new region is selected.
+	\n\n<u>Dashboards</u>
+	\nThe dashboards use active GPS for the display of their information. From these dashboards shortcuts have been added in the form of menu items. Use these menu items to see GPS Satellite Information, Store Point Locations or access the database. 
+	\n\n<u>Database</u>
+	\nThe location database is central to the program. Location information is stored to the database, the database is queried for locations, GPX files are written from and to the database. If data is cleared using the Android Application manager the current database will be lost. It is recommended that you save your database to a GPX regularly to prevent data loss. 
+	\n\n<u>File Folders</u>
+	\nGIM creates a folder entitled  “gim” on the handsets SDCard. This folder will contain three subfolders “gim/photos” which will contain all the photographs associated with your locations. The second “gim/gpx_files” for the GPX files, and a third “gim/reports” for length and area reports created by Tape Measure.
+	\n\n<u>Store Points</u>
+	\nStore Points is not found on the main menu but is accessed from the Location(Map) Dashboard or the Coordinate Systems Dashboard. Store Point intent has buttons for symbol selection, address editor,  note editor and camera. It also includes a Edit box for point name. None of these items are required for storing a location.
+	\n\n<u>GPS Tape Measure</u>
+	\nThe GPS tape measure measures distance and calculates area from GPS positions. This program is not intended to replace a precise field survey but to give quick length and area estimates. The accuracy of the measurement is limited by the positional accuracy of the GPS which for most Android handsets is 2-3 meters. The blue circle surrounding the blue location marker will indicate GPS accuracy on the ground. Be sure to that “Use GPS Satellites” is checked on in Locational Settings.  Also please hold the handset so that is can receive the best solution. Check the GPS Satellites screen to check satellite configuration and Accuracy. For area calculations be sure to factor in GPS accuracy. For all measurements it would be wise to store the generated report. The report also provides accuracy of each recorded point.
+	</string>
+	<string name= "about_text_credits">\n\n<b>Credits</b>/
+	GeoCoord conversion is based upon PROJ4 coordinate conversion libraries developed by the USGS and NASA. \
+	The formulas used are based on John P. Synders original work, <u>Map Projections: A Working Manual</u></string>
+ 
+</resources>

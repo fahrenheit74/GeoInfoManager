@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent"
+    android:background= "@color/whitebgrnd"
+    android:padding="10dip"
+    >
+    <EditText android:id="@+id/noted_body" 
+        android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:gravity="top"
+		android:layout_weight="1"
+		android:scrollbars="vertical" />
+	<Button android:id="@+id/noted_returnbtn"
+      	android:layout_width="fill_parent"
+       	android:layout_height="wrap_content"
+       	android:layout_span="3"
+       	android:text="Return"
+       	/>
+    <RelativeLayout 
+	     android:layout_height="wrap_content" 
+	     android:layout_width="fill_parent">
+	     <ImageView
+			android:id="@+id/noted_notepad"
+			android:layout_width="64dip"
+			android:layout_height="64dip"
+			android:src="@drawable/notepad_128">
+		</ImageView>
+		<TextView
+			android:id="@+id/noted_label"
+			android:layout_toRightOf="@id/noted_notepad"
+			android:layout_alignBottom="@id/noted_notepad"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:textStyle="bold"
+			android:textSize="36sp"
+			android:gravity="bottom"
+			android:textColor="@color/maintext"
+			android:text="Note Editor" >
+	    </TextView>
+    </RelativeLayout>
+</LinearLayout>

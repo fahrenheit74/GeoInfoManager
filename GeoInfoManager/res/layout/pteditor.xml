@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background= "@color/whitebgrnd"
+    android:padding="5dip">
+    <TableLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:stretchColumns="1,2">
+	    <TableRow>
+		    <ImageView
+				android:id="@+id/pted_symbol"
+				android:layout_width="32dip"
+				android:layout_height="32dip"
+				android:src="@drawable/redflag2">
+				</ImageView>
+		    <TextView
+		      	android:id="@+id/pted_ptname"
+		      	android:textColor="@color/darktext"
+		      	android:textStyle="bold"
+		      	android:textSize="14sp" /> 
+	    </TableRow>
+	</TableLayout>
+	<ImageView
+			android:id="@+id/pted_image"
+			android:layout_gravity="center"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:src="@drawable/photo_blank">
+		</ImageView>
+</LinearLayout>   	

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="fill_parent" 
+    android:layout_width="fill_parent"
+    android:background= "@color/whitebgrnd"
+    android:padding="10dip"
+    >
+    <RadioGroup
+	  android:layout_width="fill_parent"
+	  android:layout_height="wrap_content"
+	  android:orientation="vertical">
+	  
+	  <RadioButton android:id="@+id/srtopt_ascid"
+	      android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Ascend by Point Id" />
+	  
+	  <RadioButton android:id="@+id/srtopt_dscid"
+	  	  android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Descend by Point Id" />
+	      
+	   <RadioButton android:id="@+id/srtopt_ascname"
+	      android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Ascend by Point Name" />
+	  
+	  <RadioButton android:id="@+id/srtopt_dscname"
+	  	  android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Descend by Point Name" />
+	      
+	  <RadioButton android:id="@+id/srtopt_ascdist"
+	      android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Ascend by Distance" />
+	  
+	  <RadioButton android:id="@+id/srtopt_dscdist"
+	  	  android:textColor="@color/darktext"
+	      android:layout_width="wrap_content"
+	      android:layout_height="wrap_content"
+	      android:text="Descend by Distance" />
+	</RadioGroup>
+	<Button android:id="@+id/srtopt_returnbtn"
+      	android:layout_width="fill_parent"
+       	android:layout_height="wrap_content"
+       	android:layout_span="3"
+       	android:text="Return"
+       	/>
+</LinearLayout>
+    
